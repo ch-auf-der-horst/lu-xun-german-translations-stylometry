@@ -1,0 +1,1302 @@
+[
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "label": "Kalmer 1955",
+    "legacy": {
+      "full": {
+        "words": 4136,
+        "whitespace_units": 4135,
+        "sentences": 256,
+        "characters": 20757,
+        "syllables": 7106,
+        "words_per_sentence": 16.15625,
+        "characters_per_word": 5.0186170212765955,
+        "syllables_per_word": 1.7180851063829787,
+        "flesch": 63.33577127659575,
+        "coleman_liau": 11.877359767891683,
+        "types": 1271
+      },
+      "pref": {
+        "words": 326,
+        "whitespace_units": 326,
+        "sentences": 14,
+        "characters": 1645,
+        "syllables": 590,
+        "words_per_sentence": 23.285714285714285,
+        "characters_per_word": 5.04601226993865,
+        "syllables_per_word": 1.8098159509202454,
+        "flesch": 50.84005258545136,
+        "coleman_liau": 12.599386503067485,
+        "types": 205
+      },
+      "diary": {
+        "words": 3809,
+        "whitespace_units": 3808,
+        "sentences": 242,
+        "characters": 19101,
+        "syllables": 6512,
+        "words_per_sentence": 15.739669421487603,
+        "characters_per_word": 5.0147020215279605,
+        "syllables_per_word": 1.7096350748227882,
+        "flesch": 64.2466787013793,
+        "coleman_liau": 11.805849304279338,
+        "types": 1178
+      }
+    },
+    "repairs_only": {
+      "full": {
+        "words": 4136,
+        "whitespace_units": 4135,
+        "sentences": 256,
+        "characters": 20757,
+        "syllables": 7106,
+        "words_per_sentence": 16.15625,
+        "characters_per_word": 5.0186170212765955,
+        "syllables_per_word": 1.7180851063829787,
+        "flesch": 63.33577127659575,
+        "coleman_liau": 11.877359767891683,
+        "types": 1271
+      },
+      "pref": {
+        "words": 326,
+        "whitespace_units": 326,
+        "sentences": 14,
+        "characters": 1645,
+        "syllables": 590,
+        "words_per_sentence": 23.285714285714285,
+        "characters_per_word": 5.04601226993865,
+        "syllables_per_word": 1.8098159509202454,
+        "flesch": 50.84005258545136,
+        "coleman_liau": 12.599386503067485,
+        "types": 205
+      },
+      "diary": {
+        "words": 3809,
+        "whitespace_units": 3808,
+        "sentences": 242,
+        "characters": 19101,
+        "syllables": 6512,
+        "words_per_sentence": 15.739669421487603,
+        "characters_per_word": 5.0147020215279605,
+        "syllables_per_word": 1.7096350748227882,
+        "flesch": 64.2466787013793,
+        "coleman_liau": 11.805849304279338,
+        "types": 1178
+      }
+    },
+    "corrected": {
+      "full": {
+        "words": 4127,
+        "whitespace_units": 4127,
+        "sentences": 250,
+        "characters": 20711,
+        "syllables": 7089,
+        "words_per_sentence": 16.508,
+        "characters_per_word": 5.018415313787255,
+        "syllables_per_word": 1.7177126241822147,
+        "flesch": 63.00581148534043,
+        "coleman_liau": 11.91521201841531,
+        "types": 1268
+      },
+      "pref": {
+        "words": 319,
+        "whitespace_units": 319,
+        "sentences": 11,
+        "characters": 1609,
+        "syllables": 577,
+        "words_per_sentence": 29.0,
+        "characters_per_word": 5.043887147335423,
+        "syllables_per_word": 1.8087774294670846,
+        "flesch": 45.18652037617555,
+        "coleman_liau": 12.837366771159875,
+        "types": 200
+      },
+      "diary": {
+        "words": 3808,
+        "whitespace_units": 3808,
+        "sentences": 239,
+        "characters": 19102,
+        "syllables": 6512,
+        "words_per_sentence": 15.93305439330544,
+        "characters_per_word": 5.016281512605042,
+        "syllables_per_word": 1.7100840336134453,
+        "flesch": 64.027029640308,
+        "coleman_liau": 11.837962184873948,
+        "types": 1178
+      }
+    },
+    "exclusive_counts": {
+      "legacy": 6,
+      "repairs_only": 6,
+      "corrected": 6
+    },
+    "exclusive_removed": [],
+    "exclusive_added": [],
+    "previous_manuscript_table2_display": {
+      "Text": "Kalmer 1955",
+      "Words": "4,135",
+      "Average words per sentence": "16.16",
+      "Average characters per word": "5.02",
+      "Syllables per word": "1.72",
+      "Subordination index": "0.564",
+      "Syntactic depth": "4.796"
+    }
+  },
+  {
+    "witness": "1958_Herzfeldt_cleaned",
+    "label": "Herzfeldt 1958",
+    "legacy": {
+      "full": {
+        "words": 4113,
+        "whitespace_units": 4113,
+        "sentences": 329,
+        "characters": 20813,
+        "syllables": 7138,
+        "words_per_sentence": 12.501519756838906,
+        "characters_per_word": 5.060296620471675,
+        "syllables_per_word": 1.7354728908339412,
+        "flesch": 65.97331612937552,
+        "coleman_liau": 11.586831996109893,
+        "types": 1276
+      },
+      "pref": {
+        "words": 313,
+        "whitespace_units": 313,
+        "sentences": 22,
+        "characters": 1704,
+        "syllables": 589,
+        "words_per_sentence": 14.227272727272727,
+        "characters_per_word": 5.444089456869009,
+        "syllables_per_word": 1.8817891373801916,
+        "flesch": 55.688062735986065,
+        "coleman_liau": 14.130734824281149,
+        "types": 208
+      },
+      "diary": {
+        "words": 3799,
+        "whitespace_units": 3799,
+        "sentences": 308,
+        "characters": 19098,
+        "syllables": 6545,
+        "words_per_sentence": 12.334415584415584,
+        "characters_per_word": 5.027112397999473,
+        "syllables_per_word": 1.7228217952092657,
+        "flesch": 66.88050939584238,
+        "coleman_liau": 11.359631481968933,
+        "types": 1178
+      }
+    },
+    "repairs_only": {
+      "full": {
+        "words": 4113,
+        "whitespace_units": 4113,
+        "sentences": 329,
+        "characters": 20813,
+        "syllables": 7138,
+        "words_per_sentence": 12.501519756838906,
+        "characters_per_word": 5.060296620471675,
+        "syllables_per_word": 1.7354728908339412,
+        "flesch": 65.97331612937552,
+        "coleman_liau": 11.586831996109893,
+        "types": 1276
+      },
+      "pref": {
+        "words": 313,
+        "whitespace_units": 313,
+        "sentences": 22,
+        "characters": 1704,
+        "syllables": 589,
+        "words_per_sentence": 14.227272727272727,
+        "characters_per_word": 5.444089456869009,
+        "syllables_per_word": 1.8817891373801916,
+        "flesch": 55.688062735986065,
+        "coleman_liau": 14.130734824281149,
+        "types": 208
+      },
+      "diary": {
+        "words": 3799,
+        "whitespace_units": 3799,
+        "sentences": 308,
+        "characters": 19098,
+        "syllables": 6545,
+        "words_per_sentence": 12.334415584415584,
+        "characters_per_word": 5.027112397999473,
+        "syllables_per_word": 1.7228217952092657,
+        "flesch": 66.88050939584238,
+        "coleman_liau": 11.359631481968933,
+        "types": 1178
+      }
+    },
+    "corrected": {
+      "full": {
+        "words": 4106,
+        "whitespace_units": 4106,
+        "sentences": 325,
+        "characters": 20767,
+        "syllables": 7121,
+        "words_per_sentence": 12.633846153846154,
+        "characters_per_word": 5.057720409157331,
+        "syllables_per_word": 1.734291281052119,
+        "flesch": 65.9101139046049,
+        "coleman_liau": 11.596483195323916,
+        "types": 1274
+      },
+      "pref": {
+        "words": 307,
+        "whitespace_units": 307,
+        "sentences": 19,
+        "characters": 1669,
+        "syllables": 576,
+        "words_per_sentence": 16.157894736842106,
+        "characters_per_word": 5.436482084690554,
+        "syllables_per_word": 1.8762214983713354,
+        "flesch": 54.08314760843476,
+        "coleman_liau": 14.334592833876219,
+        "types": 205
+      },
+      "diary": {
+        "words": 3799,
+        "whitespace_units": 3799,
+        "sentences": 306,
+        "characters": 19098,
+        "syllables": 6545,
+        "words_per_sentence": 12.415032679738562,
+        "characters_per_word": 5.027112397999473,
+        "syllables_per_word": 1.7228217952092657,
+        "flesch": 66.79989230051939,
+        "coleman_liau": 11.375214530139502,
+        "types": 1178
+      }
+    },
+    "exclusive_counts": {
+      "legacy": 353,
+      "repairs_only": 353,
+      "corrected": 353
+    },
+    "exclusive_removed": [],
+    "exclusive_added": [],
+    "previous_manuscript_table2_display": {
+      "Text": "Herzfeldt 1958",
+      "Words": "4,113",
+      "Average words per sentence": "12.50",
+      "Average characters per word": "5.06",
+      "Syllables per word": "1.74",
+      "Subordination index": "0.409",
+      "Syntactic depth": "4.028"
+    }
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "label": "Beijing 1976",
+    "legacy": {
+      "full": {
+        "words": 4160,
+        "whitespace_units": 4160,
+        "sentences": 256,
+        "characters": 20903,
+        "syllables": 7154,
+        "words_per_sentence": 16.25,
+        "characters_per_word": 5.024759615384616,
+        "syllables_per_word": 1.7197115384615385,
+        "flesch": 63.146874999999994,
+        "coleman_liau": 11.924048076923075,
+        "types": 1274
+      },
+      "pref": {
+        "words": 326,
+        "whitespace_units": 326,
+        "sentences": 14,
+        "characters": 1645,
+        "syllables": 590,
+        "words_per_sentence": 23.285714285714285,
+        "characters_per_word": 5.04601226993865,
+        "syllables_per_word": 1.8098159509202454,
+        "flesch": 50.84005258545136,
+        "coleman_liau": 12.599386503067485,
+        "types": 205
+      },
+      "diary": {
+        "words": 3833,
+        "whitespace_units": 3833,
+        "sentences": 243,
+        "characters": 19247,
+        "syllables": 6560,
+        "words_per_sentence": 15.77366255144033,
+        "characters_per_word": 5.021393164623011,
+        "syllables_per_word": 1.7114531698408557,
+        "flesch": 64.1063270128696,
+        "coleman_liau": 11.849246021393164,
+        "types": 1181
+      }
+    },
+    "repairs_only": {
+      "full": {
+        "words": 4159,
+        "whitespace_units": 4159,
+        "sentences": 256,
+        "characters": 20903,
+        "syllables": 7153,
+        "words_per_sentence": 16.24609375,
+        "characters_per_word": 5.025967780716519,
+        "syllables_per_word": 1.7198845876412598,
+        "flesch": 63.140657872986296,
+        "coleman_liau": 11.9307141139697,
+        "types": 1272
+      },
+      "pref": {
+        "words": 326,
+        "whitespace_units": 326,
+        "sentences": 14,
+        "characters": 1645,
+        "syllables": 590,
+        "words_per_sentence": 23.285714285714285,
+        "characters_per_word": 5.04601226993865,
+        "syllables_per_word": 1.8098159509202454,
+        "flesch": 50.84005258545136,
+        "coleman_liau": 12.599386503067485,
+        "types": 205
+      },
+      "diary": {
+        "words": 3832,
+        "whitespace_units": 3832,
+        "sentences": 243,
+        "characters": 19247,
+        "syllables": 6559,
+        "words_per_sentence": 15.76954732510288,
+        "characters_per_word": 5.022703549060543,
+        "syllables_per_word": 1.7116388308977035,
+        "flesch": 64.09958106738146,
+        "coleman_liau": 11.856461377870563,
+        "types": 1179
+      }
+    },
+    "corrected": {
+      "full": {
+        "words": 4149,
+        "whitespace_units": 4149,
+        "sentences": 250,
+        "characters": 20847,
+        "syllables": 7133,
+        "words_per_sentence": 16.596,
+        "characters_per_word": 5.024584237165582,
+        "syllables_per_word": 1.7192094480597735,
+        "flesch": 62.830247288503244,
+        "coleman_liau": 11.960993010363943,
+        "types": 1269
+      },
+      "pref": {
+        "words": 319,
+        "whitespace_units": 319,
+        "sentences": 11,
+        "characters": 1609,
+        "syllables": 577,
+        "words_per_sentence": 29.0,
+        "characters_per_word": 5.043887147335423,
+        "syllables_per_word": 1.8087774294670846,
+        "flesch": 45.18652037617555,
+        "coleman_liau": 12.837366771159875,
+        "types": 200
+      },
+      "diary": {
+        "words": 3830,
+        "whitespace_units": 3830,
+        "sentences": 239,
+        "characters": 19238,
+        "syllables": 6556,
+        "words_per_sentence": 16.02510460251046,
+        "characters_per_word": 5.022976501305483,
+        "syllables_per_word": 1.7117493472584857,
+        "flesch": 63.83755858286814,
+        "coleman_liau": 11.887999999999995,
+        "types": 1178
+      }
+    },
+    "exclusive_counts": {
+      "legacy": 4,
+      "repairs_only": 3,
+      "corrected": 3
+    },
+    "exclusive_removed": [
+      "ersuch"
+    ],
+    "exclusive_added": [],
+    "previous_manuscript_table2_display": {
+      "Text": "Beijing 1976",
+      "Words": "4,160",
+      "Average words per sentence": "16.25",
+      "Average characters per word": "5.03",
+      "Syllables per word": "1.72",
+      "Subordination index": "0.560",
+      "Syntactic depth": "4.804"
+    }
+  },
+  {
+    "witness": "1979_Kraft_cleaned",
+    "label": "Kraft 1979",
+    "legacy": {
+      "full": {
+        "words": 4106,
+        "whitespace_units": 4106,
+        "sentences": 257,
+        "characters": 20706,
+        "syllables": 7057,
+        "words_per_sentence": 15.976653696498055,
+        "characters_per_word": 5.042864101315149,
+        "syllables_per_word": 1.7187043351193376,
+        "flesch": 63.479142699020684,
+        "coleman_liau": 11.999337554797858,
+        "types": 1267
+      },
+      "pref": {
+        "words": 326,
+        "whitespace_units": 326,
+        "sentences": 14,
+        "characters": 1642,
+        "syllables": 590,
+        "words_per_sentence": 23.285714285714285,
+        "characters_per_word": 5.03680981595092,
+        "syllables_per_word": 1.8098159509202454,
+        "flesch": 50.84005258545136,
+        "coleman_liau": 12.545276073619629,
+        "types": 204
+      },
+      "diary": {
+        "words": 3779,
+        "whitespace_units": 3779,
+        "sentences": 244,
+        "characters": 19053,
+        "syllables": 6463,
+        "words_per_sentence": 15.487704918032787,
+        "characters_per_word": 5.041810002646202,
+        "syllables_per_word": 1.7102408044456205,
+        "flesch": 64.46320802189841,
+        "coleman_liau": 11.934649378142364,
+        "types": 1174
+      }
+    },
+    "repairs_only": {
+      "full": {
+        "words": 4106,
+        "whitespace_units": 4106,
+        "sentences": 258,
+        "characters": 20706,
+        "syllables": 7057,
+        "words_per_sentence": 15.914728682170542,
+        "characters_per_word": 5.042864101315149,
+        "syllables_per_word": 1.7187043351193376,
+        "flesch": 63.54106771334821,
+        "coleman_liau": 11.992128592303946,
+        "types": 1267
+      },
+      "pref": {
+        "words": 326,
+        "whitespace_units": 326,
+        "sentences": 14,
+        "characters": 1642,
+        "syllables": 590,
+        "words_per_sentence": 23.285714285714285,
+        "characters_per_word": 5.03680981595092,
+        "syllables_per_word": 1.8098159509202454,
+        "flesch": 50.84005258545136,
+        "coleman_liau": 12.545276073619629,
+        "types": 204
+      },
+      "diary": {
+        "words": 3779,
+        "whitespace_units": 3779,
+        "sentences": 245,
+        "characters": 19053,
+        "syllables": 6463,
+        "words_per_sentence": 15.424489795918367,
+        "characters_per_word": 5.041810002646202,
+        "syllables_per_word": 1.7102408044456205,
+        "flesch": 64.52642314401284,
+        "coleman_liau": 11.926816618152948,
+        "types": 1174
+      }
+    },
+    "corrected": {
+      "full": {
+        "words": 4097,
+        "whitespace_units": 4097,
+        "sentences": 252,
+        "characters": 20653,
+        "syllables": 7038,
+        "words_per_sentence": 16.25793650793651,
+        "characters_per_word": 5.041005613863803,
+        "syllables_per_word": 1.7178423236514522,
+        "flesch": 63.24828755845354,
+        "coleman_liau": 12.020463753966311,
+        "types": 1264
+      },
+      "pref": {
+        "words": 320,
+        "whitespace_units": 320,
+        "sentences": 11,
+        "characters": 1609,
+        "syllables": 578,
+        "words_per_sentence": 29.09090909090909,
+        "characters_per_word": 5.028125,
+        "syllables_per_word": 1.80625,
+        "flesch": 45.2434659090909,
+        "coleman_liau": 12.747874999999997,
+        "types": 200
+      },
+      "diary": {
+        "words": 3777,
+        "whitespace_units": 3777,
+        "sentences": 241,
+        "characters": 19044,
+        "syllables": 6460,
+        "words_per_sentence": 15.67219917012448,
+        "characters_per_word": 5.042096902303415,
+        "syllables_per_word": 1.7103521313211543,
+        "flesch": 64.27220114758798,
+        "coleman_liau": 11.958835054275877,
+        "types": 1173
+      }
+    },
+    "exclusive_counts": {
+      "legacy": 15,
+      "repairs_only": 15,
+      "corrected": 15
+    },
+    "exclusive_removed": [],
+    "exclusive_added": [],
+    "previous_manuscript_table2_display": {
+      "Text": "Kraft 1979",
+      "Words": "4,106",
+      "Average words per sentence": "15.98",
+      "Average characters per word": "5.04",
+      "Syllables per word": "1.72",
+      "Subordination index": "0.552",
+      "Syntactic depth": "4.817"
+    }
+  },
+  {
+    "witness": "1980_Oberbaumverlag_cleaned",
+    "label": "Oberbaum 1980",
+    "legacy": {
+      "full": {
+        "words": 4109,
+        "whitespace_units": 4109,
+        "sentences": 292,
+        "characters": 20513,
+        "syllables": 7005,
+        "words_per_sentence": 14.071917808219178,
+        "characters_per_word": 4.9922122170844485,
+        "syllables_per_word": 1.7047943538573862,
+        "flesch": 66.19761249112372,
+        "coleman_liau": 11.45072767096617,
+        "types": 1210
+      },
+      "pref": {
+        "words": 302,
+        "whitespace_units": 302,
+        "sentences": 20,
+        "characters": 1543,
+        "syllables": 549,
+        "words_per_sentence": 15.1,
+        "characters_per_word": 5.1092715231788075,
+        "syllables_per_word": 1.8178807947019868,
+        "flesch": 58.55397350993378,
+        "coleman_liau": 12.282251655629135,
+        "types": 196
+      },
+      "diary": {
+        "words": 3806,
+        "whitespace_units": 3806,
+        "sentences": 272,
+        "characters": 18959,
+        "syllables": 6452,
+        "words_per_sentence": 13.992647058823529,
+        "characters_per_word": 4.981345244351025,
+        "syllables_per_word": 1.6952180767209668,
+        "flesch": 66.8370954529999,
+        "coleman_liau": 11.374913294797686,
+        "types": 1121
+      }
+    },
+    "repairs_only": {
+      "full": {
+        "words": 4108,
+        "whitespace_units": 4108,
+        "sentences": 292,
+        "characters": 20513,
+        "syllables": 7004,
+        "words_per_sentence": 14.068493150684931,
+        "characters_per_word": 4.993427458617332,
+        "syllables_per_word": 1.7049659201557936,
+        "flesch": 66.19100052020114,
+        "coleman_liau": 11.457361246348587,
+        "types": 1208
+      },
+      "pref": {
+        "words": 301,
+        "whitespace_units": 301,
+        "sentences": 20,
+        "characters": 1543,
+        "syllables": 548,
+        "words_per_sentence": 15.05,
+        "characters_per_word": 5.1262458471760795,
+        "syllables_per_word": 1.8205980066445182,
+        "flesch": 58.44501661129567,
+        "coleman_liau": 12.375548172757473,
+        "types": 194
+      },
+      "diary": {
+        "words": 3806,
+        "whitespace_units": 3806,
+        "sentences": 272,
+        "characters": 18959,
+        "syllables": 6452,
+        "words_per_sentence": 13.992647058823529,
+        "characters_per_word": 4.981345244351025,
+        "syllables_per_word": 1.6952180767209668,
+        "flesch": 66.8370954529999,
+        "coleman_liau": 11.374913294797686,
+        "types": 1121
+      }
+    },
+    "corrected": {
+      "full": {
+        "words": 4097,
+        "whitespace_units": 4097,
+        "sentences": 283,
+        "characters": 20449,
+        "syllables": 6982,
+        "words_per_sentence": 14.477031802120141,
+        "characters_per_word": 4.991213082743471,
+        "syllables_per_word": 1.7041737856968513,
+        "flesch": 65.82880173461406,
+        "coleman_liau": 11.503714913351228,
+        "types": 1204
+      },
+      "pref": {
+        "words": 292,
+        "whitespace_units": 292,
+        "sentences": 16,
+        "characters": 1494,
+        "syllables": 531,
+        "words_per_sentence": 18.25,
+        "characters_per_word": 5.116438356164384,
+        "syllables_per_word": 1.8184931506849316,
+        "flesch": 55.36815068493151,
+        "coleman_liau": 12.6627397260274,
+        "types": 187
+      },
+      "diary": {
+        "words": 3805,
+        "whitespace_units": 3805,
+        "sentences": 267,
+        "characters": 18955,
+        "syllables": 6451,
+        "words_per_sentence": 14.250936329588015,
+        "characters_per_word": 4.9816031537450725,
+        "syllables_per_word": 1.695400788436268,
+        "flesch": 66.56811754689032,
+        "coleman_liau": 11.414770039421807,
+        "types": 1121
+      }
+    },
+    "exclusive_counts": {
+      "legacy": 70,
+      "repairs_only": 69,
+      "corrected": 69
+    },
+    "exclusive_removed": [
+      "erfasset"
+    ],
+    "exclusive_added": [],
+    "previous_manuscript_table2_display": {
+      "Text": "Oberbaum 1980",
+      "Words": "4,109",
+      "Average words per sentence": "14.07",
+      "Average characters per word": "4.99",
+      "Syllables per word": "1.71",
+      "Subordination index": "0.428",
+      "Syntactic depth": "4.339"
+    }
+  },
+  {
+    "witness": "1981_Enlin_Herrmann_cleaned",
+    "label": "Enlin–Herrmann 1981",
+    "legacy": {
+      "full": {
+        "words": 4112,
+        "whitespace_units": 4114,
+        "sentences": 278,
+        "characters": 20624,
+        "syllables": 6995,
+        "words_per_sentence": 14.79136690647482,
+        "characters_per_word": 5.01556420233463,
+        "syllables_per_word": 1.7011186770428015,
+        "flesch": 65.69319048652129,
+        "coleman_liau": 11.690350194552533,
+        "types": 1224
+      },
+      "pref": {
+        "words": 303,
+        "whitespace_units": 302,
+        "sentences": 16,
+        "characters": 1554,
+        "syllables": 541,
+        "words_per_sentence": 18.9375,
+        "characters_per_word": 5.128712871287129,
+        "syllables_per_word": 1.7854785478547854,
+        "flesch": 56.61200495049505,
+        "coleman_liau": 12.793795379537954,
+        "types": 203
+      },
+      "diary": {
+        "words": 3808,
+        "whitespace_units": 3811,
+        "sentences": 262,
+        "characters": 19059,
+        "syllables": 6450,
+        "words_per_sentence": 14.534351145038167,
+        "characters_per_word": 5.004989495798319,
+        "syllables_per_word": 1.6938025210084033,
+        "flesch": 66.37820137597025,
+        "coleman_liau": 11.592783613445377,
+        "types": 1130
+      }
+    },
+    "repairs_only": {
+      "full": {
+        "words": 4111,
+        "whitespace_units": 4113,
+        "sentences": 278,
+        "characters": 20624,
+        "syllables": 6995,
+        "words_per_sentence": 14.787769784172662,
+        "characters_per_word": 5.016784237411822,
+        "syllables_per_word": 1.7015324738506445,
+        "flesch": 65.67258049556462,
+        "coleman_liau": 11.697037217222086,
+        "types": 1224
+      },
+      "pref": {
+        "words": 303,
+        "whitespace_units": 302,
+        "sentences": 16,
+        "characters": 1554,
+        "syllables": 541,
+        "words_per_sentence": 18.9375,
+        "characters_per_word": 5.128712871287129,
+        "syllables_per_word": 1.7854785478547854,
+        "flesch": 56.61200495049505,
+        "coleman_liau": 12.793795379537954,
+        "types": 203
+      },
+      "diary": {
+        "words": 3807,
+        "whitespace_units": 3810,
+        "sentences": 262,
+        "characters": 19059,
+        "syllables": 6450,
+        "words_per_sentence": 14.530534351145038,
+        "characters_per_word": 5.0063041765169425,
+        "syllables_per_word": 1.69424743892829,
+        "flesch": 66.35599047155,
+        "coleman_liau": 11.599978986078273,
+        "types": 1130
+      }
+    },
+    "corrected": {
+      "full": {
+        "words": 4100,
+        "whitespace_units": 4102,
+        "sentences": 273,
+        "characters": 20556,
+        "syllables": 6970,
+        "words_per_sentence": 15.018315018315018,
+        "characters_per_word": 5.013658536585366,
+        "syllables_per_word": 1.7,
+        "flesch": 65.53168498168499,
+        "coleman_liau": 11.709385365853656,
+        "types": 1221
+      },
+      "pref": {
+        "words": 295,
+        "whitespace_units": 294,
+        "sentences": 13,
+        "characters": 1506,
+        "syllables": 523,
+        "words_per_sentence": 22.692307692307693,
+        "characters_per_word": 5.105084745762712,
+        "syllables_per_word": 1.7728813559322034,
+        "flesch": 53.59413298565842,
+        "coleman_liau": 12.913491525423726,
+        "types": 201
+      },
+      "diary": {
+        "words": 3805,
+        "whitespace_units": 3808,
+        "sentences": 260,
+        "characters": 19050,
+        "syllables": 6447,
+        "words_per_sentence": 14.634615384615385,
+        "characters_per_word": 5.006570302233903,
+        "syllables_per_word": 1.6943495400788435,
+        "flesch": 66.24593652077226,
+        "coleman_liau": 11.616031537450716,
+        "types": 1129
+      }
+    },
+    "exclusive_counts": {
+      "legacy": 279,
+      "repairs_only": 279,
+      "corrected": 279
+    },
+    "exclusive_removed": [
+      "geschlossen"
+    ],
+    "exclusive_added": [
+      "aufgeschlossen"
+    ],
+    "previous_manuscript_table2_display": {
+      "Text": "Enlin–Herrmann 1981",
+      "Words": "4,114",
+      "Average words per sentence": "14.79",
+      "Average characters per word": "5.02",
+      "Syllables per word": "1.70",
+      "Subordination index": "0.608",
+      "Syntactic depth": "4.399"
+    }
+  },
+  {
+    "witness": "1994_Kubin_cleaned",
+    "label": "Kubin 1994",
+    "legacy": {
+      "full": {
+        "words": 3978,
+        "whitespace_units": 3978,
+        "sentences": 292,
+        "characters": 19868,
+        "syllables": 6758,
+        "words_per_sentence": 13.623287671232877,
+        "characters_per_word": 4.994469582704877,
+        "syllables_per_word": 1.6988436400201106,
+        "flesch": 66.99435938759066,
+        "coleman_liau": 11.394731020613374,
+        "types": 1223
+      },
+      "pref": {
+        "words": 300,
+        "whitespace_units": 300,
+        "sentences": 20,
+        "characters": 1559,
+        "syllables": 549,
+        "words_per_sentence": 15.0,
+        "characters_per_word": 5.196666666666666,
+        "syllables_per_word": 1.83,
+        "flesch": 57.94499999999999,
+        "coleman_liau": 12.783066666666667,
+        "types": 193
+      },
+      "diary": {
+        "words": 3677,
+        "whitespace_units": 3677,
+        "sentences": 272,
+        "characters": 18298,
+        "syllables": 6205,
+        "words_per_sentence": 13.518382352941176,
+        "characters_per_word": 4.976339407125374,
+        "syllables_per_word": 1.6875169975523525,
+        "flesch": 67.76187329024619,
+        "coleman_liau": 11.271264617895017,
+        "types": 1131
+      }
+    },
+    "repairs_only": {
+      "full": {
+        "words": 3978,
+        "whitespace_units": 3978,
+        "sentences": 292,
+        "characters": 19868,
+        "syllables": 6758,
+        "words_per_sentence": 13.623287671232877,
+        "characters_per_word": 4.994469582704877,
+        "syllables_per_word": 1.6988436400201106,
+        "flesch": 66.99435938759066,
+        "coleman_liau": 11.394731020613374,
+        "types": 1223
+      },
+      "pref": {
+        "words": 300,
+        "whitespace_units": 300,
+        "sentences": 20,
+        "characters": 1559,
+        "syllables": 549,
+        "words_per_sentence": 15.0,
+        "characters_per_word": 5.196666666666666,
+        "syllables_per_word": 1.83,
+        "flesch": 57.94499999999999,
+        "coleman_liau": 12.783066666666667,
+        "types": 193
+      },
+      "diary": {
+        "words": 3677,
+        "whitespace_units": 3677,
+        "sentences": 272,
+        "characters": 18298,
+        "syllables": 6205,
+        "words_per_sentence": 13.518382352941176,
+        "characters_per_word": 4.976339407125374,
+        "syllables_per_word": 1.6875169975523525,
+        "flesch": 67.76187329024619,
+        "coleman_liau": 11.271264617895017,
+        "types": 1131
+      }
+    },
+    "corrected": {
+      "full": {
+        "words": 3966,
+        "whitespace_units": 3966,
+        "sentences": 283,
+        "characters": 19797,
+        "syllables": 6733,
+        "words_per_sentence": 14.014134275618375,
+        "characters_per_word": 4.991679273827534,
+        "syllables_per_word": 1.6976802824004034,
+        "flesch": 66.67156920395803,
+        "coleman_liau": 11.438920827029747,
+        "types": 1219
+      },
+      "pref": {
+        "words": 291,
+        "whitespace_units": 291,
+        "sentences": 17,
+        "characters": 1508,
+        "syllables": 531,
+        "words_per_sentence": 17.11764705882353,
+        "characters_per_word": 5.18213058419244,
+        "syllables_per_word": 1.824742268041237,
+        "flesch": 56.134930260764094,
+        "coleman_liau": 12.941718213058419,
+        "types": 187
+      },
+      "diary": {
+        "words": 3675,
+        "whitespace_units": 3675,
+        "sentences": 266,
+        "characters": 18289,
+        "syllables": 6202,
+        "words_per_sentence": 13.81578947368421,
+        "characters_per_word": 4.976598639455783,
+        "syllables_per_word": 1.6876190476190476,
+        "flesch": 67.45849624060149,
+        "coleman_liau": 11.319923809523807,
+        "types": 1130
+      }
+    },
+    "exclusive_counts": {
+      "legacy": 2,
+      "repairs_only": 2,
+      "corrected": 2
+    },
+    "exclusive_removed": [],
+    "exclusive_added": [],
+    "previous_manuscript_table2_display": {
+      "Text": "Kubin 1994",
+      "Words": "3,978",
+      "Average words per sentence": "13.62",
+      "Average characters per word": "4.99",
+      "Syllables per word": "1.70",
+      "Subordination index": "0.353",
+      "Syntactic depth": "4.230"
+    }
+  },
+  {
+    "witness": "2019_Pengkun_cleaned",
+    "label": "Pengkun 2019",
+    "legacy": {
+      "full": {
+        "words": 3704,
+        "whitespace_units": 3705,
+        "sentences": 212,
+        "characters": 18005,
+        "syllables": 6046,
+        "words_per_sentence": 17.471698113207548,
+        "characters_per_word": 4.860961123110151,
+        "syllables_per_word": 1.6322894168466522,
+        "flesch": 67.0393710012633,
+        "coleman_liau": 11.088282937365008,
+        "types": 1079
+      },
+      "pref": {
+        "words": 259,
+        "whitespace_units": 259,
+        "sentences": 13,
+        "characters": 1347,
+        "syllables": 465,
+        "words_per_sentence": 19.923076923076923,
+        "characters_per_word": 5.2007722007722,
+        "syllables_per_word": 1.7953667953667953,
+        "flesch": 55.04796554796553,
+        "coleman_liau": 13.294826254826251,
+        "types": 182
+      },
+      "diary": {
+        "words": 3444,
+        "whitespace_units": 3445,
+        "sentences": 199,
+        "characters": 16647,
+        "syllables": 5577,
+        "words_per_sentence": 17.306532663316585,
+        "characters_per_word": 4.833623693379791,
+        "syllables_per_word": 1.6193379790940767,
+        "flesch": 67.96219555967994,
+        "coleman_liau": 10.91137049941928,
+        "types": 987
+      }
+    },
+    "repairs_only": {
+      "full": {
+        "words": 3704,
+        "whitespace_units": 3705,
+        "sentences": 212,
+        "characters": 18006,
+        "syllables": 6046,
+        "words_per_sentence": 17.471698113207548,
+        "characters_per_word": 4.861231101511879,
+        "syllables_per_word": 1.6322894168466522,
+        "flesch": 67.0393710012633,
+        "coleman_liau": 11.089870410367169,
+        "types": 1079
+      },
+      "pref": {
+        "words": 259,
+        "whitespace_units": 259,
+        "sentences": 13,
+        "characters": 1347,
+        "syllables": 465,
+        "words_per_sentence": 19.923076923076923,
+        "characters_per_word": 5.2007722007722,
+        "syllables_per_word": 1.7953667953667953,
+        "flesch": 55.04796554796553,
+        "coleman_liau": 13.294826254826251,
+        "types": 182
+      },
+      "diary": {
+        "words": 3444,
+        "whitespace_units": 3445,
+        "sentences": 199,
+        "characters": 16648,
+        "syllables": 5577,
+        "words_per_sentence": 17.306532663316585,
+        "characters_per_word": 4.833914053426248,
+        "syllables_per_word": 1.6193379790940767,
+        "flesch": 67.96219555967994,
+        "coleman_liau": 10.913077816492446,
+        "types": 987
+      }
+    },
+    "corrected": {
+      "full": {
+        "words": 3688,
+        "whitespace_units": 3689,
+        "sentences": 206,
+        "characters": 17923,
+        "syllables": 6015,
+        "words_per_sentence": 17.902912621359224,
+        "characters_per_word": 4.859815618221258,
+        "syllables_per_word": 1.6309652928416485,
+        "flesch": 66.68561774740432,
+        "coleman_liau": 11.122353579175705,
+        "types": 1074
+      },
+      "pref": {
+        "words": 246,
+        "whitespace_units": 246,
+        "sentences": 9,
+        "characters": 1284,
+        "syllables": 441,
+        "words_per_sentence": 27.333333333333332,
+        "characters_per_word": 5.219512195121951,
+        "syllables_per_word": 1.7926829268292683,
+        "flesch": 47.79471544715446,
+        "coleman_liau": 13.807804878048785,
+        "types": 176
+      },
+      "diary": {
+        "words": 3442,
+        "whitespace_units": 3443,
+        "sentences": 197,
+        "characters": 16639,
+        "syllables": 5574,
+        "words_per_sentence": 17.472081218274113,
+        "characters_per_word": 4.834108076699593,
+        "syllables_per_word": 1.6194073213248112,
+        "flesch": 67.79259048422442,
+        "coleman_liau": 10.930424171993028,
+        "types": 986
+      }
+    },
+    "exclusive_counts": {
+      "legacy": 287,
+      "repairs_only": 286,
+      "corrected": 285
+    },
+    "exclusive_removed": [
+      "gläubigem",
+      "republik"
+    ],
+    "exclusive_added": [],
+    "previous_manuscript_table2_display": {
+      "Text": "Pengkun 2019",
+      "Words": "3,705",
+      "Average words per sentence": "17.47",
+      "Average characters per word": "4.86",
+      "Syllables per word": "1.63",
+      "Subordination index": "0.519",
+      "Syntactic depth": "4.607"
+    }
+  },
+  {
+    "witness": "2024_1994_Kubin_cleaned",
+    "label": "Kubin 2024",
+    "legacy": {
+      "full": {
+        "words": 3975,
+        "whitespace_units": 3975,
+        "sentences": 288,
+        "characters": 19841,
+        "syllables": 6750,
+        "words_per_sentence": 13.802083333333334,
+        "characters_per_word": 4.991446540880503,
+        "syllables_per_word": 1.6981132075471699,
+        "flesch": 66.85829402515722,
+        "coleman_liau": 11.405101886792451,
+        "types": 1223
+      },
+      "pref": {
+        "words": 294,
+        "whitespace_units": 294,
+        "sentences": 18,
+        "characters": 1534,
+        "syllables": 540,
+        "words_per_sentence": 16.333333333333332,
+        "characters_per_word": 5.217687074829932,
+        "syllables_per_word": 1.836734693877551,
+        "flesch": 56.217687074829925,
+        "coleman_liau": 13.067755102040813,
+        "types": 191
+      },
+      "diary": {
+        "words": 3680,
+        "whitespace_units": 3680,
+        "sentences": 270,
+        "characters": 18296,
+        "syllables": 6206,
+        "words_per_sentence": 13.62962962962963,
+        "characters_per_word": 4.971739130434782,
+        "syllables_per_word": 1.686413043478261,
+        "flesch": 67.71520732689213,
+        "coleman_liau": 11.262086956521738,
+        "types": 1132
+      }
+    },
+    "repairs_only": {
+      "full": {
+        "words": 3975,
+        "whitespace_units": 3975,
+        "sentences": 288,
+        "characters": 19841,
+        "syllables": 6750,
+        "words_per_sentence": 13.802083333333334,
+        "characters_per_word": 4.991446540880503,
+        "syllables_per_word": 1.6981132075471699,
+        "flesch": 66.85829402515722,
+        "coleman_liau": 11.405101886792451,
+        "types": 1223
+      },
+      "pref": {
+        "words": 294,
+        "whitespace_units": 294,
+        "sentences": 18,
+        "characters": 1534,
+        "syllables": 540,
+        "words_per_sentence": 16.333333333333332,
+        "characters_per_word": 5.217687074829932,
+        "syllables_per_word": 1.836734693877551,
+        "flesch": 56.217687074829925,
+        "coleman_liau": 13.067755102040813,
+        "types": 191
+      },
+      "diary": {
+        "words": 3680,
+        "whitespace_units": 3680,
+        "sentences": 270,
+        "characters": 18296,
+        "syllables": 6206,
+        "words_per_sentence": 13.62962962962963,
+        "characters_per_word": 4.971739130434782,
+        "syllables_per_word": 1.686413043478261,
+        "flesch": 67.71520732689213,
+        "coleman_liau": 11.262086956521738,
+        "types": 1132
+      }
+    },
+    "corrected": {
+      "full": {
+        "words": 3971,
+        "whitespace_units": 3971,
+        "sentences": 282,
+        "characters": 19795,
+        "syllables": 6734,
+        "words_per_sentence": 14.081560283687944,
+        "characters_per_word": 4.9848904558045835,
+        "syllables_per_word": 1.6957945101989422,
+        "flesch": 66.71446086967394,
+        "coleman_liau": 11.409116091664565,
+        "types": 1219
+      },
+      "pref": {
+        "words": 291,
+        "whitespace_units": 291,
+        "sentences": 17,
+        "characters": 1508,
+        "syllables": 531,
+        "words_per_sentence": 17.11764705882353,
+        "characters_per_word": 5.18213058419244,
+        "syllables_per_word": 1.824742268041237,
+        "flesch": 56.134930260764094,
+        "coleman_liau": 12.941718213058419,
+        "types": 187
+      },
+      "diary": {
+        "words": 3680,
+        "whitespace_units": 3680,
+        "sentences": 265,
+        "characters": 18287,
+        "syllables": 6203,
+        "words_per_sentence": 13.88679245283019,
+        "characters_per_word": 4.9692934782608695,
+        "syllables_per_word": 1.6855978260869566,
+        "flesch": 67.50573472108286,
+        "coleman_liau": 11.287923913043475,
+        "types": 1130
+      }
+    },
+    "exclusive_counts": {
+      "legacy": 7,
+      "repairs_only": 7,
+      "corrected": 6
+    },
+    "exclusive_removed": [
+      "sodass"
+    ],
+    "exclusive_added": [],
+    "previous_manuscript_table2_display": {
+      "Text": "Kubin 2024",
+      "Words": "3,975",
+      "Average words per sentence": "13.80",
+      "Average characters per word": "4.99",
+      "Syllables per word": "1.70",
+      "Subordination index": "0.355",
+      "Syntactic depth": "4.238"
+    }
+  }
+]

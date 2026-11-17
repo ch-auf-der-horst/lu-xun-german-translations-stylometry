@@ -1,0 +1,6 @@
+numpy==2.4.6
+scikit-learn==1.8.0
+spacy==3.8.13
+matplotlib==3.10.9
+Pillow>=10
+# Also install de_core_news_md 3.8.0. R packages: stylo 0.7.71, ape 5.8.1, jsonlite.

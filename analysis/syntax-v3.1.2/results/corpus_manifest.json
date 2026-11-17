@@ -1,0 +1,47 @@
+[
+ {
+  "filename": "1955_Kalmer_cleaned.txt",
+  "source_sha256": "a8f385465754d75164d1b50f8cc39c2c8159e50564cd7fd04d831d641e83caa5",
+  "analysis_sha256": "97bee1cb454a579d4c951f5f342acd7489adb38b3bf87403d0cec7c69e68e5f3"
+ },
+ {
+  "filename": "1958_Herzfeldt_cleaned.txt",
+  "source_sha256": "de04e88bf26c7476a6cc9fba0d62aa7bf2f6dd210c8a7c0745b6163e6c13f0aa",
+  "analysis_sha256": "38a5d00072482a6b403c1198c0655f2e5d5c69697830836e5a86056e0bc527b4"
+ },
+ {
+  "filename": "1976_Peking_cleaned.txt",
+  "source_sha256": "559b63784590b8d0dfa906afc44287d93c220ae8f09fb9ace29b4f2e01dfacd1",
+  "analysis_sha256": "b1a6bd2deb954a9ee275b9347d03bf536dbe15bb9bccaed8e0043119eb984dc5"
+ },
+ {
+  "filename": "1979_Kraft_cleaned.txt",
+  "source_sha256": "751fdeecccdc37f5776ed8678697b4598d84a8118cdd83b95c897abf04d31c03",
+  "analysis_sha256": "fa7d7c7e84a63b0487ea5de3990d81c70202866496742a5b60259450e1400126"
+ },
+ {
+  "filename": "1980_Oberbaumverlag_cleaned.txt",
+  "source_sha256": "5dc79ece51f3252b84839a6ac038f359efb7734c1197175cb639b744b1a82619",
+  "analysis_sha256": "3a1d1eeeb5aec2a5448aaffff220b78f5167bb5c8b95bfc73ea1f588ba714469"
+ },
+ {
+  "filename": "1981_Enlin_Herrmann_cleaned.txt",
+  "source_sha256": "46a344e70578792c0e69c32286265c5d161e02dd22e5f73dab67fd053a11f83c",
+  "analysis_sha256": "96b352a6c08b035e492224e1e58a3272cf8b3a36ab3607ed22e745cb13b2641e"
+ },
+ {
+  "filename": "1994_Kubin_cleaned.txt",
+  "source_sha256": "b3ec2b5ad11759cee340c85b5f85ea67c00246b42042f4b08b0b60b7b69779c9",
+  "analysis_sha256": "b2993c9198510771a407aca52f43ae0a73a95f2fc023dcea35789ac2f7a956d1"
+ },
+ {
+  "filename": "2019_Pengkun_cleaned.txt",
+  "source_sha256": "3a7df199c13806327b1052beb2a896c272834cc4a25e7483806a2a91974476fd",
+  "analysis_sha256": "1118138a2195d6360e0fe1b46e842d98169afa8f712c893ab718039a876ecc61"
+ },
+ {
+  "filename": "2024_1994_Kubin_cleaned.txt",
+  "source_sha256": "3ea05800184b4082438ae264e8c683339de030063c9654911a076e605dfa2721",
+  "analysis_sha256": "24cdaec37659a8adcbd41e0ddf65509d92b0aff8c38e0485c606e8217dd2d8d2"
+ }
+]

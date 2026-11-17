@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the published version used and its Zenodo DOI; also cite the associated article when drawing on its argument or findings. Code: MIT. Standalone documentation, figures and result materials: CC-BY-4.0 as scoped in LICENSE.txt. This scholarly citation request adds no licence condition."
+type: software
+# Component-specific licensing is stated in message and LICENSE.txt.
+# A licence array would incorrectly imply alternative licences for the whole work.
+title: "Lu Xun German Translations Stylometry"
+authors:
+  - family-names: "auf der Horst"
+    given-names: "Christoph"
+version: "3.3-public.4"
+doi: "10.5281/zenodo.24307802"
+repository-code: "https://github.com/ch-auf-der-horst/lu-xun-german-translations-stylometry"
+# DOI reserved by the author; archival publication was pending at preparation.
+# No release date is asserted before publication.
+abstract: "Analysis code and numerical results for a comparison of nine German textual witnesses of Lu Xun's Diary of a Madman, including separate preface and diary analyses. Translation full texts are not distributed."
+keywords:
+  - "Lu Xun"
+  - "German translation"
+  - "stylometry"
+  - "retranslation"
