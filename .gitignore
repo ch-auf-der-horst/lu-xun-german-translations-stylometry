@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+~$*
+private_work/
+source_corpus/
+original_corpus/
+corrected_corpus/
+corpus/
+corpora/
+sentences.json
+preprocessing_log.json
+kwic.json
+depth_review_decisions.json
+stylo_config.txt
+*.zip
