@@ -1,0 +1,62 @@
+[
+  {
+    "witness": "2019_Pengkun_cleaned",
+    "register": "diary",
+    "sentence_sha256": "934a8dd669dd641f3676d6d9256d9d50edae7164f77c8eb7f20c2b89c925e848",
+    "token_id": 11,
+    "text": "sperre",
+    "cue_token_id": 10,
+    "reason": "als + V1 irrealis comparison; finite sperre mistagged as noun",
+    "reference_case": "P021"
+  },
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "register": "diary",
+    "sentence_sha256": "1ed56d622276353a90ded4e650617d363a388b0981c9c894485599e667867a19",
+    "token_id": 13,
+    "text": "wollen",
+    "cue_token_id": 10,
+    "reason": "relative die mistagged as article; finite modal wollen heads relative clause",
+    "reference_case": "P053"
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "register": "diary",
+    "sentence_sha256": "1ed56d622276353a90ded4e650617d363a388b0981c9c894485599e667867a19",
+    "token_id": 13,
+    "text": "wollen",
+    "cue_token_id": 10,
+    "reason": "relative die mistagged as article; finite modal wollen heads relative clause",
+    "reference_case": "P053"
+  },
+  {
+    "witness": "1979_Kraft_cleaned",
+    "register": "diary",
+    "sentence_sha256": "1ed56d622276353a90ded4e650617d363a388b0981c9c894485599e667867a19",
+    "token_id": 13,
+    "text": "wollen",
+    "cue_token_id": 10,
+    "reason": "relative die mistagged as article; finite modal wollen heads relative clause",
+    "reference_case": "P053"
+  },
+  {
+    "witness": "1981_Enlin_Herrmann_cleaned",
+    "register": "diary",
+    "sentence_sha256": "9ad7e02a46ce6cd2f69692c7695fb6fe5296d2a48db5d27bd2692fef36eda40b",
+    "token_id": 5,
+    "text": "wusste",
+    "cue_token_id": 2,
+    "reason": "relative wusste misparsed as root because source lacks commas",
+    "reference_case": "P096"
+  },
+  {
+    "witness": "1981_Enlin_Herrmann_cleaned",
+    "register": "diary",
+    "sentence_sha256": "216d413f0a609b31ab57505f91de6352ad4b853c501b4c1e8c00177c844af3dd",
+    "token_id": 16,
+    "text": "richtest",
+    "cue_token_id": 10,
+    "reason": "wenn clause with finite richtest mistagged as adjective",
+    "reference_case": "P175"
+  }
+]

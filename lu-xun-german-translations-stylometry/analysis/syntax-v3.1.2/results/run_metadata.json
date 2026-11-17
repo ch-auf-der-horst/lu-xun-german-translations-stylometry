@@ -1,0 +1,20 @@
+{
+  "version": "3.1.2",
+  "spacy": "3.8.13",
+  "model": "de_core_news_lg",
+  "model_version": "3.8.0",
+  "pipeline": [
+    "tok2vec",
+    "tagger",
+    "morphologizer",
+    "lu_xun_boundaries",
+    "parser",
+    "lemmatizer",
+    "attribute_ruler",
+    "ner"
+  ],
+  "source": "source_corpus",
+  "overrides_applied": 56,
+  "clause_overrides_applied": 6,
+  "script_sha256": "0c6c461e896189025a2d1cf51aea2a6e6e37557aa238d09167515e542aa8f0fe"
+}

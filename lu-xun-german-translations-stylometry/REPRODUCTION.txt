@@ -1,0 +1,29 @@
+Reproduction and verification
+
+1. WITHOUT TRANSLATION TEXTS
+Run from the repository root:
+  python verify_public_results.py
+This checks all nine Table 2 rows, 18 register aggregates, 2,404 sentence metrics, readability formulae, lexical counts, 25 Delta matrices against the distributed frequency tables, and fixed-vocabulary PCA control equality. It does not rerun the parser or independently validate the linguistic annotations.
+
+Figures can be regenerated from the numerical results using:
+  python analysis/all-analyses-v3.2.1/make_figures.py
+  Rscript analysis/all-analyses-v3.2.1/plot_delta.R
+The distributed figures are the unchanged outputs used for manuscript v3.3.
+
+2. WITH SEPARATELY OBTAINED INPUT TEXTS
+Install the dependencies recorded in the two requirements.txt files. The recorded analysis environment used Python 3.14.0, spaCy 3.8.13, de_core_news_lg 3.8.0 for syntax, de_core_news_md 3.8.0 for lexical analyses, NumPy 2.4.6 and scikit-learn 1.8.0. R used version 4.4.1, stylo 0.7.71, ape 5.8.1 and jsonlite. Matplotlib and Pillow are needed for figures. These packages and language models are not bundled.
+
+Prepare the nine UTF-8 files with the exact filenames listed in analysis/syntax-v3.1.2/results/corpus_manifest.json. Each must contain exactly one VORWORTENDE separator between the preface and diary. The source hashes identify the archived pre-correction transcription, not a generic scan or an arbitrary transcription of the same edition. The pipeline applies the recorded repairs itself; pre-applying them will not reproduce the archived inputs.
+
+Check your files without starting analysis:
+  python reproduce_private.py --corpus /absolute/path/to/your/texts --check-only
+
+Recalculate in a new, separate local directory:
+  python reproduce_private.py --corpus /absolute/path/to/your/texts --workdir /absolute/path/to/a/new/private_run
+
+The wrapper checks all nine source hashes, stages the public scripts in the private directory, runs syntax with the hashed attachment corrections, prepares the lexical inputs, reruns the quantitative analyses and Delta, and runs their original consistency checks. All generated corpora, sentence dumps and KWIC output stay in that private directory. The wrapper does not upload or publish anything. It refuses an existing work directory.
+
+The wrapper does not rerun verify_correction.py from the private package: that historical before/after audit depends on a previous full corpus. Its numerical outcomes are included in results/correction_comparison.json and results/pca_fixed_vocabulary_control.json. This public preparation does not claim that the historical audit was freshly repeated.
+
+3. KEEP PRIVATE OUTPUTS OUT OF RELEASES
+Use make_public_archive.py for the public archive. The ignore rules provide an additional guard; the exporter's explicit inventory and hashes determine what is distributed. Never upload the original working package or a private recalculation directory.

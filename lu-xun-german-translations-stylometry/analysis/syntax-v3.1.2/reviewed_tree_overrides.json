@@ -1,0 +1,1594 @@
+[
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "register": "pref",
+    "sentence_sha256": "4c2137e6f687f61adfe66f941677318974fab46731066bf87124c7145ed85b1e",
+    "edits": [
+      {
+        "token": 2,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "sb",
+        "text_sha256": "25b7975d961b4de593d80bcf17eea90aeadfc13c7639716d45bb26a619eabdbf",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      },
+      {
+        "token": 3,
+        "head": 4,
+        "expected_old_head": 2,
+        "dep": "sb",
+        "text_sha256": "84c92d8abf326bdb52f1fc6cd6856c41ae9bc1ef4f6056c2672e3d9d301782e1",
+        "head_text_sha256": "8314f4735373abe42bfd29267d7feb4d43109e2c029f5cae34e893f2bf5c0523"
+      },
+      {
+        "token": 4,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "par",
+        "text_sha256": "8314f4735373abe42bfd29267d7feb4d43109e2c029f5cae34e893f2bf5c0523",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      },
+      {
+        "token": 9,
+        "head": 4,
+        "expected_old_head": 10,
+        "dep": "oc",
+        "text_sha256": "eed72ce13e0ba6cf0263358ac70f2434f26b9c99be4c8a2a94911a0843ccd84b",
+        "head_text_sha256": "8314f4735373abe42bfd29267d7feb4d43109e2c029f5cae34e893f2bf5c0523"
+      },
+      {
+        "token": 10,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "ROOT",
+        "text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      },
+      {
+        "token": 19,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "cd",
+        "text_sha256": "0631a9cb488f2b668ba4c8e31a5d66f595e39421f2c93e5bfb729131dee9e2d9",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      },
+      {
+        "token": 35,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "punct",
+        "text_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "register": "diary",
+    "sentence_sha256": "c8f91f3e1a5705e16a60a45e62fc2066133e37cc764a1d4c8f8106ff2f231d96",
+    "edits": [
+      {
+        "token": 24,
+        "head": 18,
+        "expected_old_head": 23,
+        "dep": "cd",
+        "text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8",
+        "head_text_sha256": "a2d8daa4281b886508f0abfe6e8f736e34f4dcaae4374e390ebf699f83d2b44f"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "register": "diary",
+    "sentence_sha256": "305c011ce3e0ad37f5b93ff63a2b875c17a42d2d59d76f4d0011656486ad4469",
+    "edits": [
+      {
+        "token": 19,
+        "head": 5,
+        "expected_old_head": 3,
+        "dep": "oc",
+        "text_sha256": "d5522c8fac97fe3d232417fc2c79c37d35108d2ec24f3ac1fd203dc45be071e6",
+        "head_text_sha256": "bf7365f9a629f9d1043feaf9ef873c42083dd1440a5cecd9f522a6160524c3be"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "register": "diary",
+    "sentence_sha256": "149954e7c7b84cb2a681694f568df4f3630256500627f920de2b85fd4deb6dc2",
+    "edits": [
+      {
+        "token": 3,
+        "head": 3,
+        "expected_old_head": 8,
+        "dep": "ROOT",
+        "text_sha256": "a526d65b6fbb4c978f531081f54ab912e50a07501e82d28a42ef4e6c2fc0fec9",
+        "head_text_sha256": "a526d65b6fbb4c978f531081f54ab912e50a07501e82d28a42ef4e6c2fc0fec9"
+      },
+      {
+        "token": 8,
+        "head": 3,
+        "expected_old_head": 8,
+        "dep": "mo",
+        "text_sha256": "7d0b9e9efb08c7e8c6e52d5ac835f6b299f50e0df9cb69b063df82c825997742",
+        "head_text_sha256": "a526d65b6fbb4c978f531081f54ab912e50a07501e82d28a42ef4e6c2fc0fec9"
+      },
+      {
+        "token": 16,
+        "head": 3,
+        "expected_old_head": 8,
+        "dep": "punct",
+        "text_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+        "head_text_sha256": "a526d65b6fbb4c978f531081f54ab912e50a07501e82d28a42ef4e6c2fc0fec9"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "register": "pref",
+    "sentence_sha256": "4c2137e6f687f61adfe66f941677318974fab46731066bf87124c7145ed85b1e",
+    "edits": [
+      {
+        "token": 2,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "sb",
+        "text_sha256": "25b7975d961b4de593d80bcf17eea90aeadfc13c7639716d45bb26a619eabdbf",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      },
+      {
+        "token": 3,
+        "head": 4,
+        "expected_old_head": 2,
+        "dep": "sb",
+        "text_sha256": "84c92d8abf326bdb52f1fc6cd6856c41ae9bc1ef4f6056c2672e3d9d301782e1",
+        "head_text_sha256": "8314f4735373abe42bfd29267d7feb4d43109e2c029f5cae34e893f2bf5c0523"
+      },
+      {
+        "token": 4,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "par",
+        "text_sha256": "8314f4735373abe42bfd29267d7feb4d43109e2c029f5cae34e893f2bf5c0523",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      },
+      {
+        "token": 9,
+        "head": 4,
+        "expected_old_head": 10,
+        "dep": "oc",
+        "text_sha256": "eed72ce13e0ba6cf0263358ac70f2434f26b9c99be4c8a2a94911a0843ccd84b",
+        "head_text_sha256": "8314f4735373abe42bfd29267d7feb4d43109e2c029f5cae34e893f2bf5c0523"
+      },
+      {
+        "token": 10,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "ROOT",
+        "text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      },
+      {
+        "token": 19,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "cd",
+        "text_sha256": "0631a9cb488f2b668ba4c8e31a5d66f595e39421f2c93e5bfb729131dee9e2d9",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      },
+      {
+        "token": 35,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "punct",
+        "text_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "register": "diary",
+    "sentence_sha256": "c8f91f3e1a5705e16a60a45e62fc2066133e37cc764a1d4c8f8106ff2f231d96",
+    "edits": [
+      {
+        "token": 24,
+        "head": 18,
+        "expected_old_head": 23,
+        "dep": "cd",
+        "text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8",
+        "head_text_sha256": "a2d8daa4281b886508f0abfe6e8f736e34f4dcaae4374e390ebf699f83d2b44f"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "register": "diary",
+    "sentence_sha256": "919ca69f801bf4004d7f37f5648a927457cdfc3e4133bcc9a4ca1c963909b6bd",
+    "edits": [
+      {
+        "token": 19,
+        "head": 5,
+        "expected_old_head": 3,
+        "dep": "oc",
+        "text_sha256": "d5522c8fac97fe3d232417fc2c79c37d35108d2ec24f3ac1fd203dc45be071e6",
+        "head_text_sha256": "bf7365f9a629f9d1043feaf9ef873c42083dd1440a5cecd9f522a6160524c3be"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "register": "diary",
+    "sentence_sha256": "149954e7c7b84cb2a681694f568df4f3630256500627f920de2b85fd4deb6dc2",
+    "edits": [
+      {
+        "token": 3,
+        "head": 3,
+        "expected_old_head": 8,
+        "dep": "ROOT",
+        "text_sha256": "a526d65b6fbb4c978f531081f54ab912e50a07501e82d28a42ef4e6c2fc0fec9",
+        "head_text_sha256": "a526d65b6fbb4c978f531081f54ab912e50a07501e82d28a42ef4e6c2fc0fec9"
+      },
+      {
+        "token": 8,
+        "head": 3,
+        "expected_old_head": 8,
+        "dep": "mo",
+        "text_sha256": "7d0b9e9efb08c7e8c6e52d5ac835f6b299f50e0df9cb69b063df82c825997742",
+        "head_text_sha256": "a526d65b6fbb4c978f531081f54ab912e50a07501e82d28a42ef4e6c2fc0fec9"
+      },
+      {
+        "token": 16,
+        "head": 3,
+        "expected_old_head": 8,
+        "dep": "punct",
+        "text_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+        "head_text_sha256": "a526d65b6fbb4c978f531081f54ab912e50a07501e82d28a42ef4e6c2fc0fec9"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1979_Kraft_cleaned",
+    "register": "pref",
+    "sentence_sha256": "4c2137e6f687f61adfe66f941677318974fab46731066bf87124c7145ed85b1e",
+    "edits": [
+      {
+        "token": 2,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "sb",
+        "text_sha256": "25b7975d961b4de593d80bcf17eea90aeadfc13c7639716d45bb26a619eabdbf",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      },
+      {
+        "token": 3,
+        "head": 4,
+        "expected_old_head": 2,
+        "dep": "sb",
+        "text_sha256": "84c92d8abf326bdb52f1fc6cd6856c41ae9bc1ef4f6056c2672e3d9d301782e1",
+        "head_text_sha256": "8314f4735373abe42bfd29267d7feb4d43109e2c029f5cae34e893f2bf5c0523"
+      },
+      {
+        "token": 4,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "par",
+        "text_sha256": "8314f4735373abe42bfd29267d7feb4d43109e2c029f5cae34e893f2bf5c0523",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      },
+      {
+        "token": 9,
+        "head": 4,
+        "expected_old_head": 10,
+        "dep": "oc",
+        "text_sha256": "eed72ce13e0ba6cf0263358ac70f2434f26b9c99be4c8a2a94911a0843ccd84b",
+        "head_text_sha256": "8314f4735373abe42bfd29267d7feb4d43109e2c029f5cae34e893f2bf5c0523"
+      },
+      {
+        "token": 10,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "ROOT",
+        "text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      },
+      {
+        "token": 19,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "cd",
+        "text_sha256": "0631a9cb488f2b668ba4c8e31a5d66f595e39421f2c93e5bfb729131dee9e2d9",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      },
+      {
+        "token": 35,
+        "head": 10,
+        "expected_old_head": 4,
+        "dep": "punct",
+        "text_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1979_Kraft_cleaned",
+    "register": "diary",
+    "sentence_sha256": "919ca69f801bf4004d7f37f5648a927457cdfc3e4133bcc9a4ca1c963909b6bd",
+    "edits": [
+      {
+        "token": 19,
+        "head": 5,
+        "expected_old_head": 3,
+        "dep": "oc",
+        "text_sha256": "d5522c8fac97fe3d232417fc2c79c37d35108d2ec24f3ac1fd203dc45be071e6",
+        "head_text_sha256": "bf7365f9a629f9d1043feaf9ef873c42083dd1440a5cecd9f522a6160524c3be"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1979_Kraft_cleaned",
+    "register": "diary",
+    "sentence_sha256": "149954e7c7b84cb2a681694f568df4f3630256500627f920de2b85fd4deb6dc2",
+    "edits": [
+      {
+        "token": 3,
+        "head": 3,
+        "expected_old_head": 8,
+        "dep": "ROOT",
+        "text_sha256": "a526d65b6fbb4c978f531081f54ab912e50a07501e82d28a42ef4e6c2fc0fec9",
+        "head_text_sha256": "a526d65b6fbb4c978f531081f54ab912e50a07501e82d28a42ef4e6c2fc0fec9"
+      },
+      {
+        "token": 8,
+        "head": 3,
+        "expected_old_head": 8,
+        "dep": "mo",
+        "text_sha256": "7d0b9e9efb08c7e8c6e52d5ac835f6b299f50e0df9cb69b063df82c825997742",
+        "head_text_sha256": "a526d65b6fbb4c978f531081f54ab912e50a07501e82d28a42ef4e6c2fc0fec9"
+      },
+      {
+        "token": 16,
+        "head": 3,
+        "expected_old_head": 8,
+        "dep": "punct",
+        "text_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+        "head_text_sha256": "a526d65b6fbb4c978f531081f54ab912e50a07501e82d28a42ef4e6c2fc0fec9"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1979_Kraft_cleaned",
+    "register": "diary",
+    "sentence_sha256": "47910f6b48e697dfce8ad2964146cdcc6b51697bcb2329f897203100a8866d50",
+    "edits": [
+      {
+        "token": 81,
+        "head": 71,
+        "expected_old_head": 72,
+        "dep": "rc",
+        "text_sha256": "408755f6fa8ac508bab3fcd428619f797c6dff808a57f24d508f682e9b32ebf9",
+        "head_text_sha256": "1350b42885fe9d03f932b23610c9f9d0240f37df1caca0137bdd647664710cf0"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1980_Oberbaumverlag_cleaned",
+    "register": "diary",
+    "sentence_sha256": "f4bd4580856413285eedbedca1f1b1f60e51908e53f0b4c9e5e8e8ab85db0b04",
+    "edits": [
+      {
+        "token": 11,
+        "head": 1,
+        "expected_old_head": 7,
+        "dep": "cj",
+        "text_sha256": "ba9d261f6e9cec059a82b9aa869a70efdfed466cb8f35640bd28dc9c9e87d551",
+        "head_text_sha256": "ba9d261f6e9cec059a82b9aa869a70efdfed466cb8f35640bd28dc9c9e87d551"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1981_Enlin_Herrmann_cleaned",
+    "register": "diary",
+    "sentence_sha256": "4eee085167067cbb77ac781b8750957e03abc320eb3dad217ad6cec7dedea1c8",
+    "edits": [
+      {
+        "token": 20,
+        "head": 1,
+        "expected_old_head": 5,
+        "dep": "rc",
+        "text_sha256": "35487809a6ee83cc250ebf60f0ff133547d177394c4b8ab9927a7c3be4e7f866",
+        "head_text_sha256": "c29bfdd55fad9dd042dfd7bcd9c56d0ca19cec193dd36bcdf7f443ba19f35a60"
+      },
+      {
+        "token": 27,
+        "head": 1,
+        "expected_old_head": 18,
+        "dep": "rc",
+        "text_sha256": "bfe2a0ae99fbeebc7efeb26b3af335cee9addf86f6693911afd70bf5fc4c0bd6",
+        "head_text_sha256": "c29bfdd55fad9dd042dfd7bcd9c56d0ca19cec193dd36bcdf7f443ba19f35a60"
+      },
+      {
+        "token": 37,
+        "head": 1,
+        "expected_old_head": 23,
+        "dep": "rc",
+        "text_sha256": "35487809a6ee83cc250ebf60f0ff133547d177394c4b8ab9927a7c3be4e7f866",
+        "head_text_sha256": "c29bfdd55fad9dd042dfd7bcd9c56d0ca19cec193dd36bcdf7f443ba19f35a60"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1994_Kubin_cleaned",
+    "register": "diary",
+    "sentence_sha256": "f925761cc34e3dbf1cf092a10a09c6d1a0dafe82eec25467bef6832a2f698a0b",
+    "edits": [
+      {
+        "token": 11,
+        "head": 1,
+        "expected_old_head": 7,
+        "dep": "cj",
+        "text_sha256": "ba9d261f6e9cec059a82b9aa869a70efdfed466cb8f35640bd28dc9c9e87d551",
+        "head_text_sha256": "ba9d261f6e9cec059a82b9aa869a70efdfed466cb8f35640bd28dc9c9e87d551"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "2024_1994_Kubin_cleaned",
+    "register": "diary",
+    "sentence_sha256": "f925761cc34e3dbf1cf092a10a09c6d1a0dafe82eec25467bef6832a2f698a0b",
+    "edits": [
+      {
+        "token": 11,
+        "head": 1,
+        "expected_old_head": 7,
+        "dep": "cj",
+        "text_sha256": "ba9d261f6e9cec059a82b9aa869a70efdfed466cb8f35640bd28dc9c9e87d551",
+        "head_text_sha256": "ba9d261f6e9cec059a82b9aa869a70efdfed466cb8f35640bd28dc9c9e87d551"
+      }
+    ],
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "review_status": "Independent human confirmation pending"
+  },
+  {
+    "witness": "1980_Oberbaumverlag_cleaned",
+    "register": "diary",
+    "sentence_sha256": "3910c7eba2dd69eabde5c47a2f159e497218ea8c613537973e5f6553a6b842d6",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 10,
+        "head": 18,
+        "expected_old_head": 11,
+        "dep": "sb",
+        "text_sha256": "4a918a1902da06f0f529592550ff7804f16a7a5d790819e4222ba33984358728",
+        "head_text_sha256": "a2d8daa4281b886508f0abfe6e8f736e34f4dcaae4374e390ebf699f83d2b44f"
+      },
+      {
+        "token": 12,
+        "head": 11,
+        "expected_old_head": 18,
+        "dep": "mo",
+        "text_sha256": "19ea4ac2e1a53b1267fe5a61a3b6b81f760ce4223a25b495a5e2b6183da68717",
+        "head_text_sha256": "ae0043696e974247a5078c07274053a9270c0df963e28401f710e52aaf767617"
+      },
+      {
+        "token": 16,
+        "head": 15,
+        "expected_old_head": 18,
+        "dep": "mnr",
+        "text_sha256": "582967534d0f909d196b97f9e6921342777aea87b46fa52df165389db1fb8ccf",
+        "head_text_sha256": "95e5872886757687d3ccaac7605da4a680ed53b06eda1275fa9352b2394f08c5"
+      }
+    ]
+  },
+  {
+    "witness": "1994_Kubin_cleaned",
+    "register": "diary",
+    "sentence_sha256": "3910c7eba2dd69eabde5c47a2f159e497218ea8c613537973e5f6553a6b842d6",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 10,
+        "head": 18,
+        "expected_old_head": 11,
+        "dep": "sb",
+        "text_sha256": "4a918a1902da06f0f529592550ff7804f16a7a5d790819e4222ba33984358728",
+        "head_text_sha256": "a2d8daa4281b886508f0abfe6e8f736e34f4dcaae4374e390ebf699f83d2b44f"
+      },
+      {
+        "token": 12,
+        "head": 11,
+        "expected_old_head": 18,
+        "dep": "mo",
+        "text_sha256": "19ea4ac2e1a53b1267fe5a61a3b6b81f760ce4223a25b495a5e2b6183da68717",
+        "head_text_sha256": "ae0043696e974247a5078c07274053a9270c0df963e28401f710e52aaf767617"
+      },
+      {
+        "token": 16,
+        "head": 15,
+        "expected_old_head": 18,
+        "dep": "mnr",
+        "text_sha256": "582967534d0f909d196b97f9e6921342777aea87b46fa52df165389db1fb8ccf",
+        "head_text_sha256": "95e5872886757687d3ccaac7605da4a680ed53b06eda1275fa9352b2394f08c5"
+      }
+    ]
+  },
+  {
+    "witness": "2024_1994_Kubin_cleaned",
+    "register": "diary",
+    "sentence_sha256": "3910c7eba2dd69eabde5c47a2f159e497218ea8c613537973e5f6553a6b842d6",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 10,
+        "head": 18,
+        "expected_old_head": 11,
+        "dep": "sb",
+        "text_sha256": "4a918a1902da06f0f529592550ff7804f16a7a5d790819e4222ba33984358728",
+        "head_text_sha256": "a2d8daa4281b886508f0abfe6e8f736e34f4dcaae4374e390ebf699f83d2b44f"
+      },
+      {
+        "token": 12,
+        "head": 11,
+        "expected_old_head": 18,
+        "dep": "mo",
+        "text_sha256": "19ea4ac2e1a53b1267fe5a61a3b6b81f760ce4223a25b495a5e2b6183da68717",
+        "head_text_sha256": "ae0043696e974247a5078c07274053a9270c0df963e28401f710e52aaf767617"
+      },
+      {
+        "token": 16,
+        "head": 15,
+        "expected_old_head": 18,
+        "dep": "mnr",
+        "text_sha256": "582967534d0f909d196b97f9e6921342777aea87b46fa52df165389db1fb8ccf",
+        "head_text_sha256": "95e5872886757687d3ccaac7605da4a680ed53b06eda1275fa9352b2394f08c5"
+      }
+    ]
+  },
+  {
+    "witness": "2019_Pengkun_cleaned",
+    "register": "diary",
+    "sentence_sha256": "934a8dd669dd641f3676d6d9256d9d50edae7164f77c8eb7f20c2b89c925e848",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 9,
+        "head": 10,
+        "expected_old_head": 7,
+        "dep": "cp",
+        "text_sha256": "ee7637bd419d4a0008d891ee05c228159846a833285db71c4117f4bc0e209d60",
+        "head_text_sha256": "1ebc8306b4fe2bfb9db0914767cd632e68f410d93386bbda514eea71d59fda24"
+      },
+      {
+        "token": 10,
+        "head": 7,
+        "expected_old_head": 9,
+        "dep": "mo",
+        "text_sha256": "1ebc8306b4fe2bfb9db0914767cd632e68f410d93386bbda514eea71d59fda24",
+        "head_text_sha256": "5d484df860233b122e8cd915b7db937a66f02cdde307cfa9dc05e57b210910f4"
+      },
+      {
+        "token": 13,
+        "head": 10,
+        "expected_old_head": 7,
+        "dep": "oa",
+        "text_sha256": "a2452e12544f02283c0b05d8066aaf8d95961d88a2fd4ab42803199cddbaf25f",
+        "head_text_sha256": "1ebc8306b4fe2bfb9db0914767cd632e68f410d93386bbda514eea71d59fda24"
+      },
+      {
+        "token": 14,
+        "head": 10,
+        "expected_old_head": 2,
+        "dep": "svp",
+        "text_sha256": "4c3c3030130a4a1b174aa4b0eda1ab26f1ac0c3b88d8fb30e015e3172f356810",
+        "head_text_sha256": "1ebc8306b4fe2bfb9db0914767cd632e68f410d93386bbda514eea71d59fda24"
+      },
+      {
+        "token": 15,
+        "head": 13,
+        "expected_old_head": 2,
+        "dep": "cd",
+        "text_sha256": "b81d9593a3f6c4f7d125fd1da37c9b1fb180574cfb728f3db3c70eda3053e079",
+        "head_text_sha256": "a2452e12544f02283c0b05d8066aaf8d95961d88a2fd4ab42803199cddbaf25f"
+      }
+    ]
+  },
+  {
+    "witness": "2019_Pengkun_cleaned",
+    "register": "pref",
+    "sentence_sha256": "e484751f3c9c7ae9c89a1f87ab716e55774d00f4bdc993ad0fc16cce0dbcd03c",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 7,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "mo",
+        "text_sha256": "424c8eda8e3a16a7acb116eaf727794dae25ef5a16bf7dd483e929bd2534391a",
+        "head_text_sha256": "e6d0cd19736c2caed326a9b05644b5e1cadd2c314595b9679de2d89d5e543149"
+      }
+    ]
+  },
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "register": "pref",
+    "sentence_sha256": "1ee96eb5031ac2f7222aaeae4339df079a6e80b4d969206ba89287792e16c383",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 4,
+        "head": 1,
+        "expected_old_head": 3,
+        "dep": "svp",
+        "text_sha256": "78198e7ab262449ad56e4ca48e10a36f98dda6fd5a377875dd7425afcca2312b",
+        "head_text_sha256": "9130bce74e8f2479c6f56e3b67d1a26ae525ef1b3d7f8c7c6b4af2aad441aaad"
+      },
+      {
+        "token": 5,
+        "head": 1,
+        "expected_old_head": 4,
+        "dep": "svp",
+        "text_sha256": "341c2f4ba77f32ad290b74ffc21f0632ade5678fdc9a3713f5eb1fe3d25cc0cd",
+        "head_text_sha256": "9130bce74e8f2479c6f56e3b67d1a26ae525ef1b3d7f8c7c6b4af2aad441aaad"
+      },
+      {
+        "token": 15,
+        "head": 7,
+        "expected_old_head": 12,
+        "dep": "op",
+        "text_sha256": "82cefa8283d30fda9c86f8a976b95d79b395d4cff62a3c8242c7153039bfcde6",
+        "head_text_sha256": "0f9dfb30eb75106bcff91a77b7e5776c1bac0e6e53037b50b619cbb2d7fbf5cb"
+      },
+      {
+        "token": 20,
+        "head": 17,
+        "expected_old_head": 12,
+        "dep": "rc",
+        "text_sha256": "6771110c5a8e9e329458826459575f9b24c9338fd203a97fcba7d18f1f7333b0",
+        "head_text_sha256": "cd8e22cf7439433dfde45d030f1c37e1e983eaac1e7b5d83da6ea9cb7ba6bec7"
+      }
+    ]
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "register": "pref",
+    "sentence_sha256": "1ee96eb5031ac2f7222aaeae4339df079a6e80b4d969206ba89287792e16c383",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 4,
+        "head": 1,
+        "expected_old_head": 3,
+        "dep": "svp",
+        "text_sha256": "78198e7ab262449ad56e4ca48e10a36f98dda6fd5a377875dd7425afcca2312b",
+        "head_text_sha256": "9130bce74e8f2479c6f56e3b67d1a26ae525ef1b3d7f8c7c6b4af2aad441aaad"
+      },
+      {
+        "token": 5,
+        "head": 1,
+        "expected_old_head": 4,
+        "dep": "svp",
+        "text_sha256": "341c2f4ba77f32ad290b74ffc21f0632ade5678fdc9a3713f5eb1fe3d25cc0cd",
+        "head_text_sha256": "9130bce74e8f2479c6f56e3b67d1a26ae525ef1b3d7f8c7c6b4af2aad441aaad"
+      },
+      {
+        "token": 15,
+        "head": 7,
+        "expected_old_head": 12,
+        "dep": "op",
+        "text_sha256": "82cefa8283d30fda9c86f8a976b95d79b395d4cff62a3c8242c7153039bfcde6",
+        "head_text_sha256": "0f9dfb30eb75106bcff91a77b7e5776c1bac0e6e53037b50b619cbb2d7fbf5cb"
+      },
+      {
+        "token": 20,
+        "head": 17,
+        "expected_old_head": 12,
+        "dep": "rc",
+        "text_sha256": "6771110c5a8e9e329458826459575f9b24c9338fd203a97fcba7d18f1f7333b0",
+        "head_text_sha256": "cd8e22cf7439433dfde45d030f1c37e1e983eaac1e7b5d83da6ea9cb7ba6bec7"
+      }
+    ]
+  },
+  {
+    "witness": "1979_Kraft_cleaned",
+    "register": "pref",
+    "sentence_sha256": "1ee96eb5031ac2f7222aaeae4339df079a6e80b4d969206ba89287792e16c383",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 4,
+        "head": 1,
+        "expected_old_head": 3,
+        "dep": "svp",
+        "text_sha256": "78198e7ab262449ad56e4ca48e10a36f98dda6fd5a377875dd7425afcca2312b",
+        "head_text_sha256": "9130bce74e8f2479c6f56e3b67d1a26ae525ef1b3d7f8c7c6b4af2aad441aaad"
+      },
+      {
+        "token": 5,
+        "head": 1,
+        "expected_old_head": 4,
+        "dep": "svp",
+        "text_sha256": "341c2f4ba77f32ad290b74ffc21f0632ade5678fdc9a3713f5eb1fe3d25cc0cd",
+        "head_text_sha256": "9130bce74e8f2479c6f56e3b67d1a26ae525ef1b3d7f8c7c6b4af2aad441aaad"
+      },
+      {
+        "token": 15,
+        "head": 7,
+        "expected_old_head": 12,
+        "dep": "op",
+        "text_sha256": "82cefa8283d30fda9c86f8a976b95d79b395d4cff62a3c8242c7153039bfcde6",
+        "head_text_sha256": "0f9dfb30eb75106bcff91a77b7e5776c1bac0e6e53037b50b619cbb2d7fbf5cb"
+      },
+      {
+        "token": 20,
+        "head": 17,
+        "expected_old_head": 12,
+        "dep": "rc",
+        "text_sha256": "6771110c5a8e9e329458826459575f9b24c9338fd203a97fcba7d18f1f7333b0",
+        "head_text_sha256": "cd8e22cf7439433dfde45d030f1c37e1e983eaac1e7b5d83da6ea9cb7ba6bec7"
+      }
+    ]
+  },
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "register": "diary",
+    "sentence_sha256": "1ed56d622276353a90ded4e650617d363a388b0981c9c894485599e667867a19",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 9,
+        "head": 12,
+        "expected_old_head": 10,
+        "dep": "sb",
+        "text_sha256": "a8d79f40ddb79de569d778f1c0b832f9cc266b32274b702cff4ba2b8a0dd1549",
+        "head_text_sha256": "75e6d0fc3c87a18eefeaa867a306d30709cd3100a7a8b8e3d9da15d76884c854"
+      },
+      {
+        "token": 12,
+        "head": 7,
+        "expected_old_head": 2,
+        "dep": "rc",
+        "text_sha256": "75e6d0fc3c87a18eefeaa867a306d30709cd3100a7a8b8e3d9da15d76884c854",
+        "head_text_sha256": "b1a03b358fed478e5eb6a7f3e37d3190daf1da25f91635396c089bb9162456d4"
+      }
+    ]
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "register": "diary",
+    "sentence_sha256": "1ed56d622276353a90ded4e650617d363a388b0981c9c894485599e667867a19",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 9,
+        "head": 12,
+        "expected_old_head": 10,
+        "dep": "sb",
+        "text_sha256": "a8d79f40ddb79de569d778f1c0b832f9cc266b32274b702cff4ba2b8a0dd1549",
+        "head_text_sha256": "75e6d0fc3c87a18eefeaa867a306d30709cd3100a7a8b8e3d9da15d76884c854"
+      },
+      {
+        "token": 12,
+        "head": 7,
+        "expected_old_head": 2,
+        "dep": "rc",
+        "text_sha256": "75e6d0fc3c87a18eefeaa867a306d30709cd3100a7a8b8e3d9da15d76884c854",
+        "head_text_sha256": "b1a03b358fed478e5eb6a7f3e37d3190daf1da25f91635396c089bb9162456d4"
+      }
+    ]
+  },
+  {
+    "witness": "1979_Kraft_cleaned",
+    "register": "diary",
+    "sentence_sha256": "1ed56d622276353a90ded4e650617d363a388b0981c9c894485599e667867a19",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 9,
+        "head": 12,
+        "expected_old_head": 10,
+        "dep": "sb",
+        "text_sha256": "a8d79f40ddb79de569d778f1c0b832f9cc266b32274b702cff4ba2b8a0dd1549",
+        "head_text_sha256": "75e6d0fc3c87a18eefeaa867a306d30709cd3100a7a8b8e3d9da15d76884c854"
+      },
+      {
+        "token": 12,
+        "head": 7,
+        "expected_old_head": 2,
+        "dep": "rc",
+        "text_sha256": "75e6d0fc3c87a18eefeaa867a306d30709cd3100a7a8b8e3d9da15d76884c854",
+        "head_text_sha256": "b1a03b358fed478e5eb6a7f3e37d3190daf1da25f91635396c089bb9162456d4"
+      }
+    ]
+  },
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "register": "pref",
+    "sentence_sha256": "c6aa979d049f26bb96151f93a5ac239351e86f7ec110f9ff5cdd5d0e305e7106",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 2,
+        "head": 3,
+        "expected_old_head": 1,
+        "dep": "mo",
+        "text_sha256": "bd83db1dd4fac7a7b5e28e2dd06e0dcdaf1886487a2a290b03d10bf4a8b1784d",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      }
+    ]
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "register": "pref",
+    "sentence_sha256": "c6aa979d049f26bb96151f93a5ac239351e86f7ec110f9ff5cdd5d0e305e7106",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 2,
+        "head": 3,
+        "expected_old_head": 1,
+        "dep": "mo",
+        "text_sha256": "bd83db1dd4fac7a7b5e28e2dd06e0dcdaf1886487a2a290b03d10bf4a8b1784d",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      }
+    ]
+  },
+  {
+    "witness": "1979_Kraft_cleaned",
+    "register": "pref",
+    "sentence_sha256": "c6aa979d049f26bb96151f93a5ac239351e86f7ec110f9ff5cdd5d0e305e7106",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 2,
+        "head": 3,
+        "expected_old_head": 1,
+        "dep": "mo",
+        "text_sha256": "bd83db1dd4fac7a7b5e28e2dd06e0dcdaf1886487a2a290b03d10bf4a8b1784d",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      }
+    ]
+  },
+  {
+    "witness": "1980_Oberbaumverlag_cleaned",
+    "register": "diary",
+    "sentence_sha256": "8f54aad4fa93b406aedbd04c9e256d833e780ddaf2a83fe8e0013aadb36b9705",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 6,
+        "head": 2,
+        "expected_old_head": 5,
+        "dep": "op",
+        "text_sha256": "43ce6022b9318e9324d746c14f8342cc203bb8e155e276f67cb9ad3fbfa6a484",
+        "head_text_sha256": "1e6507710db2a2072057dab899143d168e1d1f5c180187ac459cb314c44e2f97"
+      }
+    ]
+  },
+  {
+    "witness": "1994_Kubin_cleaned",
+    "register": "diary",
+    "sentence_sha256": "8f54aad4fa93b406aedbd04c9e256d833e780ddaf2a83fe8e0013aadb36b9705",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 6,
+        "head": 2,
+        "expected_old_head": 5,
+        "dep": "op",
+        "text_sha256": "43ce6022b9318e9324d746c14f8342cc203bb8e155e276f67cb9ad3fbfa6a484",
+        "head_text_sha256": "1e6507710db2a2072057dab899143d168e1d1f5c180187ac459cb314c44e2f97"
+      }
+    ]
+  },
+  {
+    "witness": "2024_1994_Kubin_cleaned",
+    "register": "diary",
+    "sentence_sha256": "8f54aad4fa93b406aedbd04c9e256d833e780ddaf2a83fe8e0013aadb36b9705",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 6,
+        "head": 2,
+        "expected_old_head": 5,
+        "dep": "op",
+        "text_sha256": "43ce6022b9318e9324d746c14f8342cc203bb8e155e276f67cb9ad3fbfa6a484",
+        "head_text_sha256": "1e6507710db2a2072057dab899143d168e1d1f5c180187ac459cb314c44e2f97"
+      }
+    ]
+  },
+  {
+    "witness": "1981_Enlin_Herrmann_cleaned",
+    "register": "diary",
+    "sentence_sha256": "9ad7e02a46ce6cd2f69692c7695fb6fe5296d2a48db5d27bd2692fef36eda40b",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 0,
+        "head": 13,
+        "expected_old_head": 4,
+        "dep": "sb",
+        "text_sha256": "ca089bd7b1371e37b52c85c2243a4277f75608a0c4b696bbeccaeb5035909f91",
+        "head_text_sha256": "89d195f45b35ba280945554a47fa4c7e72abe79b054090ef37f18f0da71d0502"
+      },
+      {
+        "token": 1,
+        "head": 4,
+        "expected_old_head": 0,
+        "dep": "sb",
+        "text_sha256": "5050d80d22ecd471ea55df7034042c1e041341ff4066e7f6ff38e20b720df8ea",
+        "head_text_sha256": "4d82fd8841a445f71ffac9bec2158e57b95000afd478891ca10bda5e518d3bf1"
+      },
+      {
+        "token": 4,
+        "head": 0,
+        "expected_old_head": 4,
+        "dep": "rc",
+        "text_sha256": "4d82fd8841a445f71ffac9bec2158e57b95000afd478891ca10bda5e518d3bf1",
+        "head_text_sha256": "ca089bd7b1371e37b52c85c2243a4277f75608a0c4b696bbeccaeb5035909f91"
+      },
+      {
+        "token": 13,
+        "head": 13,
+        "expected_old_head": 12,
+        "dep": "ROOT",
+        "text_sha256": "89d195f45b35ba280945554a47fa4c7e72abe79b054090ef37f18f0da71d0502",
+        "head_text_sha256": "89d195f45b35ba280945554a47fa4c7e72abe79b054090ef37f18f0da71d0502"
+      },
+      {
+        "token": 14,
+        "head": 13,
+        "expected_old_head": 12,
+        "dep": "mo",
+        "text_sha256": "f1c98ccb91d3bc7f1aac306c67f866e31b2296e25f5f04a81bde924385e08b16",
+        "head_text_sha256": "89d195f45b35ba280945554a47fa4c7e72abe79b054090ef37f18f0da71d0502"
+      },
+      {
+        "token": 19,
+        "head": 13,
+        "expected_old_head": 12,
+        "dep": "oc",
+        "text_sha256": "1da8321dcc9a00abe48f2d3bab1786eebbdedc363ccbac3de1a649c03efe47fd",
+        "head_text_sha256": "89d195f45b35ba280945554a47fa4c7e72abe79b054090ef37f18f0da71d0502"
+      },
+      {
+        "token": 25,
+        "head": 17,
+        "expected_old_head": 18,
+        "dep": "oc",
+        "text_sha256": "04c6ee9a94b4c30e9525983e252c3e1ba027b066d38016be2c326e30af2fc289",
+        "head_text_sha256": "c3c27bacd0e0b53f4e9bea3068736f4b8c08c8b7d35a479baef03e6b1a3c1d37"
+      },
+      {
+        "token": 26,
+        "head": 13,
+        "expected_old_head": 4,
+        "dep": "punct",
+        "text_sha256": "bb7208bc9b5d7c04f1236a82a0093a5e33f40423d5ba8d4266f7092c3ba43b62",
+        "head_text_sha256": "89d195f45b35ba280945554a47fa4c7e72abe79b054090ef37f18f0da71d0502"
+      }
+    ]
+  },
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "register": "diary",
+    "sentence_sha256": "fc5e8cdce6e5ab184395ee20e5d83728d69c72a3ced47d84a7a7e3b9fd5e18b9",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 20,
+        "head": 17,
+        "expected_old_head": 2,
+        "dep": "oc",
+        "text_sha256": "6a26e2b7a5361812d59abe94ccb471f9f3a8877c730f10a8e8d49df28d27a43e",
+        "head_text_sha256": "790ae36308f9e1e08c5f6550c4eccc045114a003278f31f93b0650e1900ffafe"
+      }
+    ]
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "register": "diary",
+    "sentence_sha256": "fc5e8cdce6e5ab184395ee20e5d83728d69c72a3ced47d84a7a7e3b9fd5e18b9",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 20,
+        "head": 17,
+        "expected_old_head": 2,
+        "dep": "oc",
+        "text_sha256": "6a26e2b7a5361812d59abe94ccb471f9f3a8877c730f10a8e8d49df28d27a43e",
+        "head_text_sha256": "790ae36308f9e1e08c5f6550c4eccc045114a003278f31f93b0650e1900ffafe"
+      }
+    ]
+  },
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "register": "pref",
+    "sentence_sha256": "111b6e8cb01af78528268238838a29b40bc3fa73b395cf3be1852d70d1bf329e",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 9,
+        "head": 8,
+        "expected_old_head": 4,
+        "dep": "op",
+        "text_sha256": "43ce6022b9318e9324d746c14f8342cc203bb8e155e276f67cb9ad3fbfa6a484",
+        "head_text_sha256": "907a3efd95c6f4d43126cf8ac87d752add59b5e95bedbc38b2845fcdfded606a"
+      }
+    ]
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "register": "pref",
+    "sentence_sha256": "111b6e8cb01af78528268238838a29b40bc3fa73b395cf3be1852d70d1bf329e",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 9,
+        "head": 8,
+        "expected_old_head": 4,
+        "dep": "op",
+        "text_sha256": "43ce6022b9318e9324d746c14f8342cc203bb8e155e276f67cb9ad3fbfa6a484",
+        "head_text_sha256": "907a3efd95c6f4d43126cf8ac87d752add59b5e95bedbc38b2845fcdfded606a"
+      }
+    ]
+  },
+  {
+    "witness": "1979_Kraft_cleaned",
+    "register": "pref",
+    "sentence_sha256": "111b6e8cb01af78528268238838a29b40bc3fa73b395cf3be1852d70d1bf329e",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 9,
+        "head": 8,
+        "expected_old_head": 4,
+        "dep": "op",
+        "text_sha256": "43ce6022b9318e9324d746c14f8342cc203bb8e155e276f67cb9ad3fbfa6a484",
+        "head_text_sha256": "907a3efd95c6f4d43126cf8ac87d752add59b5e95bedbc38b2845fcdfded606a"
+      }
+    ]
+  },
+  {
+    "witness": "1994_Kubin_cleaned",
+    "register": "diary",
+    "sentence_sha256": "24d8a38f53e284722b45e01b774a42ceb05e528537c63b85c7c116f97eae48e6",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 9,
+        "head": 2,
+        "expected_old_head": 6,
+        "dep": "oc",
+        "text_sha256": "e670cee78172b97adeff5d2752bc3eb637d53c9ceec0f859ed42ed101f2f4e32",
+        "head_text_sha256": "9f29c65e5f070c89376befa68c50b851bf931945fe6ceeafb7036a485fa7be16"
+      }
+    ]
+  },
+  {
+    "witness": "2024_1994_Kubin_cleaned",
+    "register": "diary",
+    "sentence_sha256": "24d8a38f53e284722b45e01b774a42ceb05e528537c63b85c7c116f97eae48e6",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 9,
+        "head": 2,
+        "expected_old_head": 6,
+        "dep": "oc",
+        "text_sha256": "e670cee78172b97adeff5d2752bc3eb637d53c9ceec0f859ed42ed101f2f4e32",
+        "head_text_sha256": "9f29c65e5f070c89376befa68c50b851bf931945fe6ceeafb7036a485fa7be16"
+      }
+    ]
+  },
+  {
+    "witness": "1994_Kubin_cleaned",
+    "register": "pref",
+    "sentence_sha256": "5ed7def60cb096bf54b93f4feb189a12a7c88f52633b7d2e18abe0c33c1620c3",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 2,
+        "head": 5,
+        "expected_old_head": 3,
+        "dep": "oa",
+        "text_sha256": "4b3cdc60fd901bc79303f2df7740b3bd48ea91056cb51bc3cae2cc7a699d323c",
+        "head_text_sha256": "1abf4a5e175e6d5d6523e5f7841fe35a12a467fb63b65c7dba7b8ef74b59f543"
+      },
+      {
+        "token": 15,
+        "head": 14,
+        "expected_old_head": 17,
+        "dep": "mnr",
+        "text_sha256": "6d111b98b316598fdf230289c755143f3ffe033af6973bc5fc754a142d795fc5",
+        "head_text_sha256": "c29bfdd55fad9dd042dfd7bcd9c56d0ca19cec193dd36bcdf7f443ba19f35a60"
+      },
+      {
+        "token": 25,
+        "head": 24,
+        "expected_old_head": 28,
+        "dep": "cj",
+        "text_sha256": "c53a0674de4ba7848f0f66c91bd30f70bfbde5cbf5b81f2136e8634d6b51f7d4",
+        "head_text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8"
+      },
+      {
+        "token": 28,
+        "head": 14,
+        "expected_old_head": 12,
+        "dep": "rc",
+        "text_sha256": "bf586d886bcf16651b9330ef8bf219adc52390842387d00e51f915eb3a440a85",
+        "head_text_sha256": "c29bfdd55fad9dd042dfd7bcd9c56d0ca19cec193dd36bcdf7f443ba19f35a60"
+      }
+    ]
+  },
+  {
+    "witness": "2024_1994_Kubin_cleaned",
+    "register": "pref",
+    "sentence_sha256": "5ed7def60cb096bf54b93f4feb189a12a7c88f52633b7d2e18abe0c33c1620c3",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 2,
+        "head": 5,
+        "expected_old_head": 3,
+        "dep": "oa",
+        "text_sha256": "4b3cdc60fd901bc79303f2df7740b3bd48ea91056cb51bc3cae2cc7a699d323c",
+        "head_text_sha256": "1abf4a5e175e6d5d6523e5f7841fe35a12a467fb63b65c7dba7b8ef74b59f543"
+      },
+      {
+        "token": 15,
+        "head": 14,
+        "expected_old_head": 17,
+        "dep": "mnr",
+        "text_sha256": "6d111b98b316598fdf230289c755143f3ffe033af6973bc5fc754a142d795fc5",
+        "head_text_sha256": "c29bfdd55fad9dd042dfd7bcd9c56d0ca19cec193dd36bcdf7f443ba19f35a60"
+      },
+      {
+        "token": 25,
+        "head": 24,
+        "expected_old_head": 28,
+        "dep": "cj",
+        "text_sha256": "c53a0674de4ba7848f0f66c91bd30f70bfbde5cbf5b81f2136e8634d6b51f7d4",
+        "head_text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8"
+      },
+      {
+        "token": 28,
+        "head": 14,
+        "expected_old_head": 12,
+        "dep": "rc",
+        "text_sha256": "bf586d886bcf16651b9330ef8bf219adc52390842387d00e51f915eb3a440a85",
+        "head_text_sha256": "c29bfdd55fad9dd042dfd7bcd9c56d0ca19cec193dd36bcdf7f443ba19f35a60"
+      }
+    ]
+  },
+  {
+    "witness": "1980_Oberbaumverlag_cleaned",
+    "register": "pref",
+    "sentence_sha256": "a6616acfbb7f38a4b2540db53408aab669a281385b7f8e827e9d7bdcd8c73884",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 15,
+        "head": 18,
+        "expected_old_head": 12,
+        "dep": "da",
+        "text_sha256": "de6087d0a99abc408a8bebee20154c9fa25cfd98f3921091201c689e58d95037",
+        "head_text_sha256": "fbb7636d8156a1b36299b46e987e750588c3e049b9664ae0e167aed6fb46aa0a"
+      }
+    ]
+  },
+  {
+    "witness": "1994_Kubin_cleaned",
+    "register": "pref",
+    "sentence_sha256": "a6616acfbb7f38a4b2540db53408aab669a281385b7f8e827e9d7bdcd8c73884",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 15,
+        "head": 18,
+        "expected_old_head": 12,
+        "dep": "da",
+        "text_sha256": "de6087d0a99abc408a8bebee20154c9fa25cfd98f3921091201c689e58d95037",
+        "head_text_sha256": "fbb7636d8156a1b36299b46e987e750588c3e049b9664ae0e167aed6fb46aa0a"
+      }
+    ]
+  },
+  {
+    "witness": "2024_1994_Kubin_cleaned",
+    "register": "pref",
+    "sentence_sha256": "a6616acfbb7f38a4b2540db53408aab669a281385b7f8e827e9d7bdcd8c73884",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 15,
+        "head": 18,
+        "expected_old_head": 12,
+        "dep": "da",
+        "text_sha256": "de6087d0a99abc408a8bebee20154c9fa25cfd98f3921091201c689e58d95037",
+        "head_text_sha256": "fbb7636d8156a1b36299b46e987e750588c3e049b9664ae0e167aed6fb46aa0a"
+      }
+    ]
+  },
+  {
+    "witness": "1981_Enlin_Herrmann_cleaned",
+    "register": "pref",
+    "sentence_sha256": "86d3d7d50ab36dc55844750b7e17c459ca2736a59c7dd40227c26a1990e24071",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 19,
+        "head": 9,
+        "expected_old_head": 34,
+        "dep": "pd",
+        "text_sha256": "f72d71d3376f5fb1ec0821b9958345d60edb640a1160a0f78d245f73dcd1c761",
+        "head_text_sha256": "46cddc407fcbb2c3dc3eab0860e6587a1c00c70a53e532d8028aeb8829b7648c"
+      }
+    ]
+  },
+  {
+    "witness": "1994_Kubin_cleaned",
+    "register": "diary",
+    "sentence_sha256": "d240e7dbee120bc03901ccd0ef8e3c41ec45311cc9729c9a54659c9b759827c8",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 0,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "mo",
+        "text_sha256": "cde9e58a9a4e1f369839d800aebbe5e4c19e2efa9f5791ecda15e9e87eb652e3",
+        "head_text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390"
+      },
+      {
+        "token": 1,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "punct",
+        "text_sha256": "d03502c43d74a30b936740a9517dc4ea2b2ad7168caa0a774cefe793ce0b33e7",
+        "head_text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390"
+      },
+      {
+        "token": 6,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "mo",
+        "text_sha256": "1da8321dcc9a00abe48f2d3bab1786eebbdedc363ccbac3de1a649c03efe47fd",
+        "head_text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390"
+      },
+      {
+        "token": 9,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "ROOT",
+        "text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390",
+        "head_text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390"
+      },
+      {
+        "token": 13,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "punct",
+        "text_sha256": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1",
+        "head_text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390"
+      },
+      {
+        "token": 14,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "punct",
+        "text_sha256": "bb7208bc9b5d7c04f1236a82a0093a5e33f40423d5ba8d4266f7092c3ba43b62",
+        "head_text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390"
+      }
+    ]
+  },
+  {
+    "witness": "2024_1994_Kubin_cleaned",
+    "register": "diary",
+    "sentence_sha256": "d240e7dbee120bc03901ccd0ef8e3c41ec45311cc9729c9a54659c9b759827c8",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 0,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "mo",
+        "text_sha256": "cde9e58a9a4e1f369839d800aebbe5e4c19e2efa9f5791ecda15e9e87eb652e3",
+        "head_text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390"
+      },
+      {
+        "token": 1,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "punct",
+        "text_sha256": "d03502c43d74a30b936740a9517dc4ea2b2ad7168caa0a774cefe793ce0b33e7",
+        "head_text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390"
+      },
+      {
+        "token": 6,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "mo",
+        "text_sha256": "1da8321dcc9a00abe48f2d3bab1786eebbdedc363ccbac3de1a649c03efe47fd",
+        "head_text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390"
+      },
+      {
+        "token": 9,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "ROOT",
+        "text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390",
+        "head_text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390"
+      },
+      {
+        "token": 13,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "punct",
+        "text_sha256": "8a8de823d5ed3e12746a62ef169bcf372be0ca44f0a1236abc35df05d96928e1",
+        "head_text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390"
+      },
+      {
+        "token": 14,
+        "head": 9,
+        "expected_old_head": 6,
+        "dep": "punct",
+        "text_sha256": "bb7208bc9b5d7c04f1236a82a0093a5e33f40423d5ba8d4266f7092c3ba43b62",
+        "head_text_sha256": "c65de1bbb38e64c6f7fb793d5e95058b479385245ec53ac0565814ee06cfd390"
+      }
+    ]
+  },
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "register": "pref",
+    "sentence_sha256": "ab727d1b2db832e40226f533345cb9bb49a67a00299683c4ae1fe60ed4d33730",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 36,
+        "head": 35,
+        "expected_old_head": 42,
+        "dep": "cd",
+        "text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8",
+        "head_text_sha256": "a418e69e9fbe3f5ee539498f036d24184da4562539491ddb884e1c6e47778c60"
+      },
+      {
+        "token": 37,
+        "head": 40,
+        "expected_old_head": 42,
+        "dep": "mo",
+        "text_sha256": "582967534d0f909d196b97f9e6921342777aea87b46fa52df165389db1fb8ccf",
+        "head_text_sha256": "43ce6022b9318e9324d746c14f8342cc203bb8e155e276f67cb9ad3fbfa6a484"
+      },
+      {
+        "token": 40,
+        "head": 36,
+        "expected_old_head": 42,
+        "dep": "cj",
+        "text_sha256": "43ce6022b9318e9324d746c14f8342cc203bb8e155e276f67cb9ad3fbfa6a484",
+        "head_text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8"
+      },
+      {
+        "token": 42,
+        "head": 28,
+        "expected_old_head": 26,
+        "dep": "rc",
+        "text_sha256": "bf586d886bcf16651b9330ef8bf219adc52390842387d00e51f915eb3a440a85",
+        "head_text_sha256": "d0cce11bf103d080e6399551af555b89b4152cf244d66dbcfa5754264dcbcaa7"
+      }
+    ]
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "register": "pref",
+    "sentence_sha256": "ab727d1b2db832e40226f533345cb9bb49a67a00299683c4ae1fe60ed4d33730",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 36,
+        "head": 35,
+        "expected_old_head": 42,
+        "dep": "cd",
+        "text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8",
+        "head_text_sha256": "a418e69e9fbe3f5ee539498f036d24184da4562539491ddb884e1c6e47778c60"
+      },
+      {
+        "token": 37,
+        "head": 40,
+        "expected_old_head": 42,
+        "dep": "mo",
+        "text_sha256": "582967534d0f909d196b97f9e6921342777aea87b46fa52df165389db1fb8ccf",
+        "head_text_sha256": "43ce6022b9318e9324d746c14f8342cc203bb8e155e276f67cb9ad3fbfa6a484"
+      },
+      {
+        "token": 40,
+        "head": 36,
+        "expected_old_head": 42,
+        "dep": "cj",
+        "text_sha256": "43ce6022b9318e9324d746c14f8342cc203bb8e155e276f67cb9ad3fbfa6a484",
+        "head_text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8"
+      },
+      {
+        "token": 42,
+        "head": 28,
+        "expected_old_head": 26,
+        "dep": "rc",
+        "text_sha256": "bf586d886bcf16651b9330ef8bf219adc52390842387d00e51f915eb3a440a85",
+        "head_text_sha256": "d0cce11bf103d080e6399551af555b89b4152cf244d66dbcfa5754264dcbcaa7"
+      }
+    ]
+  },
+  {
+    "witness": "1979_Kraft_cleaned",
+    "register": "pref",
+    "sentence_sha256": "ab727d1b2db832e40226f533345cb9bb49a67a00299683c4ae1fe60ed4d33730",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 36,
+        "head": 35,
+        "expected_old_head": 42,
+        "dep": "cd",
+        "text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8",
+        "head_text_sha256": "a418e69e9fbe3f5ee539498f036d24184da4562539491ddb884e1c6e47778c60"
+      },
+      {
+        "token": 37,
+        "head": 40,
+        "expected_old_head": 42,
+        "dep": "mo",
+        "text_sha256": "582967534d0f909d196b97f9e6921342777aea87b46fa52df165389db1fb8ccf",
+        "head_text_sha256": "43ce6022b9318e9324d746c14f8342cc203bb8e155e276f67cb9ad3fbfa6a484"
+      },
+      {
+        "token": 40,
+        "head": 36,
+        "expected_old_head": 42,
+        "dep": "cj",
+        "text_sha256": "43ce6022b9318e9324d746c14f8342cc203bb8e155e276f67cb9ad3fbfa6a484",
+        "head_text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8"
+      },
+      {
+        "token": 42,
+        "head": 28,
+        "expected_old_head": 26,
+        "dep": "rc",
+        "text_sha256": "bf586d886bcf16651b9330ef8bf219adc52390842387d00e51f915eb3a440a85",
+        "head_text_sha256": "d0cce11bf103d080e6399551af555b89b4152cf244d66dbcfa5754264dcbcaa7"
+      }
+    ]
+  },
+  {
+    "witness": "1981_Enlin_Herrmann_cleaned",
+    "register": "diary",
+    "sentence_sha256": "216d413f0a609b31ab57505f91de6352ad4b853c501b4c1e8c00177c844af3dd",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 0,
+        "head": 3,
+        "expected_old_head": 0,
+        "dep": "mo",
+        "text_sha256": "482b98e1609bd828db30a1c85f78a5e6e6ee55dcfb01db094432c1db2c1ae168",
+        "head_text_sha256": "f343cf9a8091a7ba12478769c5c833a7716331f9e966b49e116d1158879bfc99"
+      },
+      {
+        "token": 3,
+        "head": 3,
+        "expected_old_head": 0,
+        "dep": "ROOT",
+        "text_sha256": "f343cf9a8091a7ba12478769c5c833a7716331f9e966b49e116d1158879bfc99",
+        "head_text_sha256": "f343cf9a8091a7ba12478769c5c833a7716331f9e966b49e116d1158879bfc99"
+      },
+      {
+        "token": 8,
+        "head": 9,
+        "expected_old_head": 15,
+        "dep": "mo",
+        "text_sha256": "f1b7384743db3616cedb2810f40be29bbc3157001a2a7d77f58175bd9f9c02c6",
+        "head_text_sha256": "4da271bb37e5a8c67028815c0c0e2d52db269d4c123e477af101c7d987491961"
+      },
+      {
+        "token": 13,
+        "head": 15,
+        "expected_old_head": 12,
+        "dep": "mo",
+        "text_sha256": "d941a36dbe67051b56940bde18552222ec741260a9e71cb2a0cb8da396eb7045",
+        "head_text_sha256": "e145f3bc363630455e773ca3b98275420c8d5ead6d9007808902a40c5d24fd09"
+      },
+      {
+        "token": 14,
+        "head": 13,
+        "expected_old_head": 15,
+        "dep": "nk",
+        "text_sha256": "bf65c1637f933b736080a53521bb980fb2942b53628fe6bdde9fc059e15238cf",
+        "head_text_sha256": "d941a36dbe67051b56940bde18552222ec741260a9e71cb2a0cb8da396eb7045"
+      },
+      {
+        "token": 16,
+        "head": 3,
+        "expected_old_head": 0,
+        "dep": "punct",
+        "text_sha256": "bb7208bc9b5d7c04f1236a82a0093a5e33f40423d5ba8d4266f7092c3ba43b62",
+        "head_text_sha256": "f343cf9a8091a7ba12478769c5c833a7716331f9e966b49e116d1158879bfc99"
+      }
+    ]
+  },
+  {
+    "witness": "1955_Kalmer_cleaned",
+    "register": "diary",
+    "sentence_sha256": "62cc3bd3e38351a01eb7756e53f57656fcf7abca0ccb1ba1669e390e404ea511",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 12,
+        "head": 5,
+        "expected_old_head": 1,
+        "dep": "cd",
+        "text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8",
+        "head_text_sha256": "280721fcd04dd694a18ccac619a269da553cf571973929843b3e480d3fa58a73"
+      }
+    ]
+  },
+  {
+    "witness": "1976_Peking_cleaned",
+    "register": "diary",
+    "sentence_sha256": "62cc3bd3e38351a01eb7756e53f57656fcf7abca0ccb1ba1669e390e404ea511",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 12,
+        "head": 5,
+        "expected_old_head": 1,
+        "dep": "cd",
+        "text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8",
+        "head_text_sha256": "280721fcd04dd694a18ccac619a269da553cf571973929843b3e480d3fa58a73"
+      }
+    ]
+  },
+  {
+    "witness": "1979_Kraft_cleaned",
+    "register": "diary",
+    "sentence_sha256": "62cc3bd3e38351a01eb7756e53f57656fcf7abca0ccb1ba1669e390e404ea511",
+    "reason": "Reviewed dependency attachment correction; exact sentence and token identities checked by SHA-256.",
+    "edits": [
+      {
+        "token": 12,
+        "head": 5,
+        "expected_old_head": 1,
+        "dep": "cd",
+        "text_sha256": "856cc99d87343400dc05fe7d03fa666602a1d92c4fb0ee1f5ae2f0a5fb218eb8",
+        "head_text_sha256": "280721fcd04dd694a18ccac619a269da553cf571973929843b3e480d3fa58a73"
+      }
+    ]
+  }
+]

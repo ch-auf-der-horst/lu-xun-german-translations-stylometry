@@ -1,0 +1,15 @@
+Scope of the public preparation
+
+The public package contains the current analysis code and numerical outputs, including separate preface and diary measures, all 25 Delta matrices, frequency lists, PCA results, six figures, and correction summaries. Sentence-level records contain counts, depths and hashes but no sentence text or lexical token streams.
+
+Not distributed: complete source and corrected corpora; intermediate corpus variants; scans; the manuscript and its earlier versions; sentence and token text dumps; KWIC contexts; context-bearing historical annotations; full reference-annotation cases; detailed prose comments containing quotations; previous release packages.
+
+The 56 dependency correction records retain witness/register identifiers, sentence hashes, token and head positions, dependency labels, expected previous heads and token hashes. The parser accepts an edit only if the sentence and token checks match. Explanatory quotation-bearing prose is replaced with a neutral description. The six clause overrides retain the short linguistic information needed for the original rule.
+
+The historical classification input retains the selected forms, counts and classification labels but omits quotation contexts and prose reasoning. These fixed annotations can reproduce the published counts; their linguistic judgements cannot be independently assessed from this reduced file alone.
+
+Reproduction has two levels. The public numerical checks and the figure scripts operate on distributed results. Re-running the full corpus analysis requires separately obtained, correctly transcribed texts with the documented preparation and matching hashes. The absence of original texts limits independent inspection of tokenisation, readings and reference labels. This is explicitly not an unrestricted corpus release.
+
+The reference annotations derive from one reader's review of proposed labels. Cases were reused for correction and checking. No blind second annotation or independent corpus-wide accuracy estimate is supplied; five dependency trees per witness do not establish precise witness-specific error rates. Arithmetic reproduction is not independent linguistic validation.
+
+The private working package has been preserved. The public preparation does not include its prior manuscript versions or prior release archives. Numerical source hashes are recorded as historical provenance; hashes for the distributed files are recorded separately in PUBLIC_FILES.json and SHA256SUMS.

@@ -1,0 +1,51 @@
+[
+  {
+    "rule": "join_versuch",
+    "source_start": 18601,
+    "source_end": 18609,
+    "before": "V ersuch",
+    "after": "Versuch",
+    "witness": "1976_Peking_cleaned",
+    "register": "diary"
+  },
+  {
+    "rule": "restore_sentence_boundary_after_einlegte",
+    "source_start": 5500,
+    "source_end": 5526,
+    "before": "einlegte, Wie soll ich nun",
+    "after": "einlegte. Wie soll ich nun",
+    "witness": "1979_Kraft_cleaned",
+    "register": "diary"
+  },
+  {
+    "rule": "editorial_verfasser",
+    "source_start": 1234,
+    "source_end": 1244,
+    "before": "V erfasset",
+    "after": "Verfasser",
+    "witness": "1980_Oberbaumverlag_cleaned",
+    "register": "pref"
+  },
+  {
+    "rule": "join_aufgeschlossen",
+    "source_start": 21532,
+    "source_end": 21548,
+    "before": "auf' geschlossen",
+    "after": "aufgeschlossen",
+    "witness": "1981_Enlin_Herrmann_cleaned",
+    "register": "diary"
+  },
+  {
+    "rule": "restore_glaeubigern_pengkun_2019",
+    "witness": "2019_Pengkun_cleaned",
+    "register": "diary",
+    "before": "Gläubigem",
+    "after": "Gläubigern",
+    "source_start": 2128,
+    "source_end": 2137,
+    "source_print_page": 13,
+    "source_edition": "Pengkun 2019",
+    "reason": "OCR correction: printed rn was transcribed as m; verified against source scan.",
+    "expected_occurrences": 1
+  }
+]

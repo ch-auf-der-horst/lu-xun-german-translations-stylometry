@@ -1,0 +1,12 @@
+{
+  "pca_wordform_max_percentage_point_difference": 1.4210854715202004e-14,
+  "pca_lemma_count_max_percentage_point_difference": 3.979039320256561e-13,
+  "pca_lemma_tfidf_max_percentage_point_difference": 2.6290081223123707e-13,
+  "same_sentence_count_as_syntax": true,
+  "legacy_readability_36_values_match_archive": true,
+  "legacy_lexical_36_values_match_archive": true,
+  "legacy_exclusivity_9_values_match_manuscript": true,
+  "delta_25_matrices_numpy_vs_stylo_max_abs_error": 4.884981308350689e-15,
+  "consensus_topology_same_across_three_full_text_tracks": true,
+  "syntax_aggregates_verified_from_2404_sentences": true
+}

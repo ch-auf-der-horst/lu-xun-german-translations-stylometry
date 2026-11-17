@@ -1,0 +1,9 @@
+Rights and permissions
+
+The original Python and R scripts are licensed under MIT. The original standalone documentation, figures and result materials are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), to the extent that the relevant rights subsist and are held by Christoph auf der Horst. LICENSE.txt defines the precise scope; LICENSES contains the complete licence texts.
+
+The complete translation texts, text-bearing sentence annotations, concordance contexts, scans and manuscript files are not distributed in this package. No licence for third-party translation texts or other third-party material is granted or implied.
+
+Individual linguistic forms, short correction patterns, aggregate word-frequency lists and numerical results remain available for methodological documentation. The notices do not create rights in unprotected facts or forms. Dependencies must be obtained separately and retain their own licences.
+
+CITATION.cff and CITING.txt state the preferred scientific citation. They do not impose additional licence conditions.

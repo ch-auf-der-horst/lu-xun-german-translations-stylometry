@@ -1,0 +1,494 @@
+{
+  "version": "3.2.1",
+  "baseline": "3.2",
+  "witnesses": 9,
+  "sentences": 2404,
+  "full_syntax_identical": true,
+  "register_syntax_identical": true,
+  "all_25_delta_matrices_and_consensus_trees_identical": true,
+  "table2_all_54_display_values_identical": true,
+  "unchanged_outputs": {
+    "part_of_speech.json": true,
+    "kwic.json": true
+  },
+  "historical_counts_and_rates_unchanged_context_corrected": true,
+  "rows": [
+    {
+      "witness": "1955_Kalmer_cleaned",
+      "label": "Kalmer 1955",
+      "metric_changes": {
+        "full": {},
+        "pref": {},
+        "diary": {}
+      },
+      "exclusive_before": 6,
+      "exclusive_after": 6,
+      "exclusive_removed": [],
+      "exclusive_added": []
+    },
+    {
+      "witness": "1958_Herzfeldt_cleaned",
+      "label": "Herzfeldt 1958",
+      "metric_changes": {
+        "full": {},
+        "pref": {},
+        "diary": {}
+      },
+      "exclusive_before": 353,
+      "exclusive_after": 353,
+      "exclusive_removed": [],
+      "exclusive_added": []
+    },
+    {
+      "witness": "1976_Peking_cleaned",
+      "label": "Beijing 1976",
+      "metric_changes": {
+        "full": {},
+        "pref": {},
+        "diary": {}
+      },
+      "exclusive_before": 3,
+      "exclusive_after": 3,
+      "exclusive_removed": [],
+      "exclusive_added": []
+    },
+    {
+      "witness": "1979_Kraft_cleaned",
+      "label": "Kraft 1979",
+      "metric_changes": {
+        "full": {},
+        "pref": {},
+        "diary": {}
+      },
+      "exclusive_before": 15,
+      "exclusive_after": 15,
+      "exclusive_removed": [],
+      "exclusive_added": []
+    },
+    {
+      "witness": "1980_Oberbaumverlag_cleaned",
+      "label": "Oberbaum 1980",
+      "metric_changes": {
+        "full": {},
+        "pref": {},
+        "diary": {}
+      },
+      "exclusive_before": 69,
+      "exclusive_after": 69,
+      "exclusive_removed": [],
+      "exclusive_added": []
+    },
+    {
+      "witness": "1981_Enlin_Herrmann_cleaned",
+      "label": "Enlin–Herrmann 1981",
+      "metric_changes": {
+        "full": {},
+        "pref": {},
+        "diary": {}
+      },
+      "exclusive_before": 279,
+      "exclusive_after": 279,
+      "exclusive_removed": [],
+      "exclusive_added": []
+    },
+    {
+      "witness": "1994_Kubin_cleaned",
+      "label": "Kubin 1994",
+      "metric_changes": {
+        "full": {},
+        "pref": {},
+        "diary": {}
+      },
+      "exclusive_before": 2,
+      "exclusive_after": 2,
+      "exclusive_removed": [],
+      "exclusive_added": []
+    },
+    {
+      "witness": "2019_Pengkun_cleaned",
+      "label": "Pengkun 2019",
+      "metric_changes": {
+        "full": {
+          "characters": {
+            "before": 17922,
+            "after": 17923
+          },
+          "characters_per_word": {
+            "before": 4.859544468546638,
+            "after": 4.859815618221258
+          },
+          "coleman_liau": {
+            "before": 11.120759219088935,
+            "after": 11.122353579175705
+          }
+        },
+        "pref": {},
+        "diary": {
+          "characters": {
+            "before": 16638,
+            "after": 16639
+          },
+          "characters_per_word": {
+            "before": 4.833817547937246,
+            "after": 4.834108076699593
+          },
+          "coleman_liau": {
+            "before": 10.928715862870423,
+            "after": 10.930424171993028
+          }
+        }
+      },
+      "exclusive_before": 286,
+      "exclusive_after": 285,
+      "exclusive_removed": [
+        "gläubigem"
+      ],
+      "exclusive_added": []
+    },
+    {
+      "witness": "2024_1994_Kubin_cleaned",
+      "label": "Kubin 2024",
+      "metric_changes": {
+        "full": {},
+        "pref": {},
+        "diary": {}
+      },
+      "exclusive_before": 6,
+      "exclusive_after": 6,
+      "exclusive_removed": [],
+      "exclusive_added": []
+    }
+  ],
+  "changed_sentences": [
+    {
+      "id": "2019_Pengkun_cleaned:diary:024",
+      "before": {
+        "id": "2019_Pengkun_cleaned:diary:024",
+        "sha256": "1b2121a305d26e95773a27b4afcda4e2de899597b9833878ed7085554685c0b3",
+        "depth_parser": 7,
+        "depth_reviewed": 7,
+        "clauses": 0,
+        "tokens": 48
+      },
+      "after": {
+        "id": "2019_Pengkun_cleaned:diary:024",
+        "sha256": "ce9c9b3aa599852d9e64a99f8351558946cc36a032773f7972b72edfd86777d0",
+        "depth_parser": 7,
+        "depth_reviewed": 7,
+        "clauses": 0,
+        "tokens": 48
+      }
+    }
+  ],
+  "pca_control": "pca_fixed_vocabulary_control.json",
+  "full_precision_table2_before": [
+    {
+      "witness": "1955_Kalmer_cleaned",
+      "label": "Kalmer 1955",
+      "words": 4127,
+      "whitespace_units": 4127,
+      "sentences": 250,
+      "characters": 20711,
+      "syllables": 7089,
+      "words_per_sentence": 16.508,
+      "characters_per_word": 5.018415313787255,
+      "syllables_per_word": 1.7177126241822147,
+      "flesch": 63.00581148534043,
+      "coleman_liau": 11.91521201841531,
+      "types": 1268,
+      "subordination_index": 0.564,
+      "dependency_depth": 4.796
+    },
+    {
+      "witness": "1958_Herzfeldt_cleaned",
+      "label": "Herzfeldt 1958",
+      "words": 4106,
+      "whitespace_units": 4106,
+      "sentences": 325,
+      "characters": 20767,
+      "syllables": 7121,
+      "words_per_sentence": 12.633846153846154,
+      "characters_per_word": 5.057720409157331,
+      "syllables_per_word": 1.734291281052119,
+      "flesch": 65.9101139046049,
+      "coleman_liau": 11.596483195323916,
+      "types": 1274,
+      "subordination_index": 0.40923076923076923,
+      "dependency_depth": 4.027692307692308
+    },
+    {
+      "witness": "1976_Peking_cleaned",
+      "label": "Beijing 1976",
+      "words": 4149,
+      "whitespace_units": 4149,
+      "sentences": 250,
+      "characters": 20847,
+      "syllables": 7133,
+      "words_per_sentence": 16.596,
+      "characters_per_word": 5.024584237165582,
+      "syllables_per_word": 1.7192094480597735,
+      "flesch": 62.830247288503244,
+      "coleman_liau": 11.960993010363943,
+      "types": 1269,
+      "subordination_index": 0.56,
+      "dependency_depth": 4.804
+    },
+    {
+      "witness": "1979_Kraft_cleaned",
+      "label": "Kraft 1979",
+      "words": 4097,
+      "whitespace_units": 4097,
+      "sentences": 252,
+      "characters": 20653,
+      "syllables": 7038,
+      "words_per_sentence": 16.25793650793651,
+      "characters_per_word": 5.041005613863803,
+      "syllables_per_word": 1.7178423236514522,
+      "flesch": 63.24828755845354,
+      "coleman_liau": 12.020463753966311,
+      "types": 1264,
+      "subordination_index": 0.5515873015873016,
+      "dependency_depth": 4.817460317460317
+    },
+    {
+      "witness": "1980_Oberbaumverlag_cleaned",
+      "label": "Oberbaum 1980",
+      "words": 4097,
+      "whitespace_units": 4097,
+      "sentences": 283,
+      "characters": 20449,
+      "syllables": 6982,
+      "words_per_sentence": 14.477031802120141,
+      "characters_per_word": 4.991213082743471,
+      "syllables_per_word": 1.7041737856968513,
+      "flesch": 65.82880173461406,
+      "coleman_liau": 11.503714913351228,
+      "types": 1204,
+      "subordination_index": 0.4275618374558304,
+      "dependency_depth": 4.339222614840989
+    },
+    {
+      "witness": "1981_Enlin_Herrmann_cleaned",
+      "label": "Enlin–Herrmann 1981",
+      "words": 4100,
+      "whitespace_units": 4102,
+      "sentences": 273,
+      "characters": 20556,
+      "syllables": 6970,
+      "words_per_sentence": 15.018315018315018,
+      "characters_per_word": 5.013658536585366,
+      "syllables_per_word": 1.7,
+      "flesch": 65.53168498168499,
+      "coleman_liau": 11.709385365853656,
+      "types": 1221,
+      "subordination_index": 0.608058608058608,
+      "dependency_depth": 4.3992673992674
+    },
+    {
+      "witness": "1994_Kubin_cleaned",
+      "label": "Kubin 1994",
+      "words": 3966,
+      "whitespace_units": 3966,
+      "sentences": 283,
+      "characters": 19797,
+      "syllables": 6733,
+      "words_per_sentence": 14.014134275618375,
+      "characters_per_word": 4.991679273827534,
+      "syllables_per_word": 1.6976802824004034,
+      "flesch": 66.67156920395803,
+      "coleman_liau": 11.438920827029747,
+      "types": 1219,
+      "subordination_index": 0.35335689045936397,
+      "dependency_depth": 4.229681978798586
+    },
+    {
+      "witness": "2019_Pengkun_cleaned",
+      "label": "Pengkun 2019",
+      "words": 3688,
+      "whitespace_units": 3689,
+      "sentences": 206,
+      "characters": 17922,
+      "syllables": 6015,
+      "words_per_sentence": 17.902912621359224,
+      "characters_per_word": 4.859544468546638,
+      "syllables_per_word": 1.6309652928416485,
+      "flesch": 66.68561774740432,
+      "coleman_liau": 11.120759219088935,
+      "types": 1074,
+      "subordination_index": 0.5194174757281553,
+      "dependency_depth": 4.606796116504855
+    },
+    {
+      "witness": "2024_1994_Kubin_cleaned",
+      "label": "Kubin 2024",
+      "words": 3971,
+      "whitespace_units": 3971,
+      "sentences": 282,
+      "characters": 19795,
+      "syllables": 6734,
+      "words_per_sentence": 14.081560283687944,
+      "characters_per_word": 4.9848904558045835,
+      "syllables_per_word": 1.6957945101989422,
+      "flesch": 66.71446086967394,
+      "coleman_liau": 11.409116091664565,
+      "types": 1219,
+      "subordination_index": 0.3546099290780142,
+      "dependency_depth": 4.23758865248227
+    }
+  ],
+  "full_precision_table2_after": [
+    {
+      "witness": "1955_Kalmer_cleaned",
+      "label": "Kalmer 1955",
+      "words": 4127,
+      "whitespace_units": 4127,
+      "sentences": 250,
+      "characters": 20711,
+      "syllables": 7089,
+      "words_per_sentence": 16.508,
+      "characters_per_word": 5.018415313787255,
+      "syllables_per_word": 1.7177126241822147,
+      "flesch": 63.00581148534043,
+      "coleman_liau": 11.91521201841531,
+      "types": 1268,
+      "subordination_index": 0.564,
+      "dependency_depth": 4.796
+    },
+    {
+      "witness": "1958_Herzfeldt_cleaned",
+      "label": "Herzfeldt 1958",
+      "words": 4106,
+      "whitespace_units": 4106,
+      "sentences": 325,
+      "characters": 20767,
+      "syllables": 7121,
+      "words_per_sentence": 12.633846153846154,
+      "characters_per_word": 5.057720409157331,
+      "syllables_per_word": 1.734291281052119,
+      "flesch": 65.9101139046049,
+      "coleman_liau": 11.596483195323916,
+      "types": 1274,
+      "subordination_index": 0.40923076923076923,
+      "dependency_depth": 4.027692307692308
+    },
+    {
+      "witness": "1976_Peking_cleaned",
+      "label": "Beijing 1976",
+      "words": 4149,
+      "whitespace_units": 4149,
+      "sentences": 250,
+      "characters": 20847,
+      "syllables": 7133,
+      "words_per_sentence": 16.596,
+      "characters_per_word": 5.024584237165582,
+      "syllables_per_word": 1.7192094480597735,
+      "flesch": 62.830247288503244,
+      "coleman_liau": 11.960993010363943,
+      "types": 1269,
+      "subordination_index": 0.56,
+      "dependency_depth": 4.804
+    },
+    {
+      "witness": "1979_Kraft_cleaned",
+      "label": "Kraft 1979",
+      "words": 4097,
+      "whitespace_units": 4097,
+      "sentences": 252,
+      "characters": 20653,
+      "syllables": 7038,
+      "words_per_sentence": 16.25793650793651,
+      "characters_per_word": 5.041005613863803,
+      "syllables_per_word": 1.7178423236514522,
+      "flesch": 63.24828755845354,
+      "coleman_liau": 12.020463753966311,
+      "types": 1264,
+      "subordination_index": 0.5515873015873016,
+      "dependency_depth": 4.817460317460317
+    },
+    {
+      "witness": "1980_Oberbaumverlag_cleaned",
+      "label": "Oberbaum 1980",
+      "words": 4097,
+      "whitespace_units": 4097,
+      "sentences": 283,
+      "characters": 20449,
+      "syllables": 6982,
+      "words_per_sentence": 14.477031802120141,
+      "characters_per_word": 4.991213082743471,
+      "syllables_per_word": 1.7041737856968513,
+      "flesch": 65.82880173461406,
+      "coleman_liau": 11.503714913351228,
+      "types": 1204,
+      "subordination_index": 0.4275618374558304,
+      "dependency_depth": 4.339222614840989
+    },
+    {
+      "witness": "1981_Enlin_Herrmann_cleaned",
+      "label": "Enlin–Herrmann 1981",
+      "words": 4100,
+      "whitespace_units": 4102,
+      "sentences": 273,
+      "characters": 20556,
+      "syllables": 6970,
+      "words_per_sentence": 15.018315018315018,
+      "characters_per_word": 5.013658536585366,
+      "syllables_per_word": 1.7,
+      "flesch": 65.53168498168499,
+      "coleman_liau": 11.709385365853656,
+      "types": 1221,
+      "subordination_index": 0.608058608058608,
+      "dependency_depth": 4.3992673992674
+    },
+    {
+      "witness": "1994_Kubin_cleaned",
+      "label": "Kubin 1994",
+      "words": 3966,
+      "whitespace_units": 3966,
+      "sentences": 283,
+      "characters": 19797,
+      "syllables": 6733,
+      "words_per_sentence": 14.014134275618375,
+      "characters_per_word": 4.991679273827534,
+      "syllables_per_word": 1.6976802824004034,
+      "flesch": 66.67156920395803,
+      "coleman_liau": 11.438920827029747,
+      "types": 1219,
+      "subordination_index": 0.35335689045936397,
+      "dependency_depth": 4.229681978798586
+    },
+    {
+      "witness": "2019_Pengkun_cleaned",
+      "label": "Pengkun 2019",
+      "words": 3688,
+      "whitespace_units": 3689,
+      "sentences": 206,
+      "characters": 17923,
+      "syllables": 6015,
+      "words_per_sentence": 17.902912621359224,
+      "characters_per_word": 4.859815618221258,
+      "syllables_per_word": 1.6309652928416485,
+      "flesch": 66.68561774740432,
+      "coleman_liau": 11.122353579175705,
+      "types": 1074,
+      "subordination_index": 0.5194174757281553,
+      "dependency_depth": 4.606796116504855
+    },
+    {
+      "witness": "2024_1994_Kubin_cleaned",
+      "label": "Kubin 2024",
+      "words": 3971,
+      "whitespace_units": 3971,
+      "sentences": 282,
+      "characters": 19795,
+      "syllables": 6734,
+      "words_per_sentence": 14.081560283687944,
+      "characters_per_word": 4.9848904558045835,
+      "syllables_per_word": 1.6957945101989422,
+      "flesch": 66.71446086967394,
+      "coleman_liau": 11.409116091664565,
+      "types": 1219,
+      "subordination_index": 0.3546099290780142,
+      "dependency_depth": 4.23758865248227
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+spacy==3.8.13
+# Additionally install de_core_news_lg version 3.8.0.

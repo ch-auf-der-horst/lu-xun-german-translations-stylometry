@@ -1,0 +1,85 @@
+{
+  "all_prefaces_lower_flesch": true,
+  "all_prefaces_higher_coleman_liau": true,
+  "flesch_gap_descending": [
+    "Pengkun 2019",
+    "Kraft 1979",
+    "Kalmer 1955",
+    "Beijing 1976",
+    "Herzfeldt 1958",
+    "Enlin–Herrmann 1981",
+    "Kubin 2024",
+    "Kubin 1994",
+    "Oberbaum 1980"
+  ],
+  "coleman_liau_gap_descending": [
+    "Herzfeldt 1958",
+    "Pengkun 2019",
+    "Kubin 2024",
+    "Kubin 1994",
+    "Enlin–Herrmann 1981",
+    "Oberbaum 1980",
+    "Kalmer 1955",
+    "Beijing 1976",
+    "Kraft 1979"
+  ],
+  "motif_counts_unchanged": true,
+  "pca_wordform_percent": [
+    48.07906563068721,
+    21.752816415271838
+  ],
+  "herzfeldt_full_nearest_by_mfw": {
+    "100": {
+      "witness": "1958_Herzfeldt_cleaned",
+      "nearest": "1979_Kraft_cleaned",
+      "distance": 1.288610365169524
+    },
+    "200": {
+      "witness": "1958_Herzfeldt_cleaned",
+      "nearest": "1981_Enlin_Herrmann_cleaned",
+      "distance": 1.2896920265459735
+    },
+    "300": {
+      "witness": "1958_Herzfeldt_cleaned",
+      "nearest": "1981_Enlin_Herrmann_cleaned",
+      "distance": 1.2677193222514542
+    },
+    "400": {
+      "witness": "1958_Herzfeldt_cleaned",
+      "nearest": "1981_Enlin_Herrmann_cleaned",
+      "distance": 1.2161705104168141
+    },
+    "500": {
+      "witness": "1958_Herzfeldt_cleaned",
+      "nearest": "1981_Enlin_Herrmann_cleaned",
+      "distance": 1.161351268015491
+    }
+  },
+  "pengkun_full_nearest_by_mfw": {
+    "100": {
+      "witness": "2019_Pengkun_cleaned",
+      "nearest": "1979_Kraft_cleaned",
+      "distance": 1.3472532745817574
+    },
+    "200": {
+      "witness": "2019_Pengkun_cleaned",
+      "nearest": "1979_Kraft_cleaned",
+      "distance": 1.321338046415234
+    },
+    "300": {
+      "witness": "2019_Pengkun_cleaned",
+      "nearest": "2024_1994_Kubin_cleaned",
+      "distance": 1.3591743756649282
+    },
+    "400": {
+      "witness": "2019_Pengkun_cleaned",
+      "nearest": "2024_1994_Kubin_cleaned",
+      "distance": 1.3202754553763214
+    },
+    "500": {
+      "witness": "2019_Pengkun_cleaned",
+      "nearest": "1980_Oberbaumverlag_cleaned",
+      "distance": 1.3118593719136415
+    }
+  }
+}
